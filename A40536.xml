@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full account of the situation, former state and late siege of Stetin being a summary relation of all the particular actions perform'd both within the city and in the camp of His Highness the Elector of Brandenburgh / as it was delivered in sundry letters from credible persons of eminent quality in London.</title>
+         </titleStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40536</idno><idno type="EEBO-CITATION">15691144</idno>
+  <idno type="VID">104415</idno>
+  <idno type="EEBO-PROQUEST">2240905295</idno>
+  
+            <idno type="STC">Wing F2272</idno>
+            <idno type="STC">ESTC R36441</idno>
+            <idno type="OCLC">15691144</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full account of the situation, former state and late siege of Stetin being a summary relation of all the particular actions perform'd both within the city and in the camp of His Highness the Elector of Brandenburgh / as it was delivered in sundry letters from credible persons of eminent quality in London.</title>
+               </titleStmt>
+               <extent>[14], 106 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dan. Brown ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Jan. 25, 1677/8. Ro. L'Estrange."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Stettin (Poland) --  Siege, 1677.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104415:1"/>
+            <pb facs="tcp:104415:1"/>
+            <p>A Full Account OF THE Situation, Former STATE, AND LATE SIEGE OF <hi>STETIN.</hi> BEING A Summary Relation of all the Particular Actions perform'd both within the City, and in the Camp of His <hi>HIGHNESS</hi> the ELECTOR of <hi>BRANDENBƲRGH.</hi>
+            </p>
+            <p>As it was delivered in sundry Letters from Cre<g ref="char:EOLhyphen"/>dible Persons there, to Persons of Eminent Quality in <hi>LONDON.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Jan. 25. 1677/8.</hi>
+                              </date>
+                           </dateline>
+                           <signed>Ro. L'Estrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dan. Brown</hi> next the <hi>Queens-Head</hi> without <hi>Temple-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar. 1678.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:104415:2"/>
+            <pb facs="tcp:104415:2"/>
+            <head>To the <hi>READERS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving with a great deal of Wonder, Sa<g ref="char:EOLhyphen"/>tisfaction, and indeed Un<g ref="char:EOLhyphen"/>equall'd Ad<g ref="char:EOLhyphen"/>miration, read both the Pri<g ref="char:EOLhyphen"/>vate and Publick Accounts of the Siege of <hi>STETIN,</hi> I could not chuse (to satisfie the World as well as my self) but give this following Ac<g ref="char:EOLhyphen"/>count;
+<pb facs="tcp:104415:3"/> which although it is not writ by an Eye-Witness, yet I dare affirm, by one that glories more in writing Truth, and displaying that in its naked Colours, then to wrap up Hyperbolies in gau<g ref="char:EOLhyphen"/>dy Rhetorick. I am not gree<g ref="char:EOLhyphen"/>dy to be seen in Print, (espe<g ref="char:EOLhyphen"/>cially in an Age where there are so many hourly Producti<g ref="char:EOLhyphen"/>ons of Wit in its highest mag<g ref="char:EOLhyphen"/>nitude) but hasty to let the World have a sense of the Siege and Honour of the <hi>Ste<g ref="char:EOLhyphen"/>tiners,</hi> as well as that of the <hi>Candians,</hi> or the well-order<g ref="char:EOLhyphen"/>ed Assault before <hi>Maestricht.</hi> And although things in this Nature are generally dis<g ref="char:EOLhyphen"/>pers'd,
+<pb facs="tcp:104415:3"/> and every Ear sucks in the imperfect Intelligence, which being out of Form or Order, serves rather for a Weekly Diversion, then a solid and perfect Account: These things considered, made me shuffle this Chaos into a digested Mass or Body, and present it to the World for a true and perfect Colle<g ref="char:EOLhyphen"/>ction: Having besides our Modern and Publick New<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, all the Forraign, and divers private Letters; which are not only a great Advantage, but also an Embellishment to the Work.</p>
+            <p>The Situation of <hi>Stetin</hi> (according to that famous and
+<pb facs="tcp:104415:4"/> unerring Author <hi>Henry He<g ref="char:EOLhyphen"/>xam,</hi> the Translator of <hi>Mer<g ref="char:EOLhyphen"/>cator Atlas)</hi> I annexed, with intent that those who had ne<g ref="char:EOLhyphen"/>ver read <hi>Mercator,</hi> might as well know something of their former Magnificence and Glory, as of their present Valour and undaunted Reso<g ref="char:EOLhyphen"/>lutions; who though they are Conquered, are not Over<g ref="char:EOLhyphen"/>come: But are rather taken into the Protection of Him who will hug these Patters of War, and look upon 'em as the only Deservers of that Noble Title.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:104415:4"/>
+            <head>Upon those Couragious and Undaunted PEOPLE, THE STETINERS.</head>
+            <lg>
+               <l>
+                  <hi>STETIN!</hi> That lasting Monu<g ref="char:EOLhyphen"/>ment of Fame!</l>
+               <l>Whose Glory lives for ever with her Name:</l>
+               <l>Within whose Confines Valour did abound,</l>
+               <l>And Wreaths of <hi>Laurel</hi> all their Vi<g ref="char:EOLhyphen"/>ctors Crownd:</l>
+               <l>Who did in former Ages teach the Croud</l>
+               <l>Of Savage Monsters, insolent and loud,</l>
+               <pb facs="tcp:104415:5"/>
+               <l>Obedience and Humility, whilst they Taught the rude <hi>Goths</hi>
+                  <note n="*" place="bottom">
+                     <hi>Pomerania</hi> first inhabited by the <hi>Goths, Van<g ref="char:EOLhyphen"/>dals,</hi> and <hi>Cassubians,</hi> but conquered and expell'd by those now call'd the <hi>Stetiners.</hi>
+                  </note> and <hi>Van<g ref="char:EOLhyphen"/>dals</hi> to obey:</l>
+               <l>Did with their Conquering Arms se<g ref="char:EOLhyphen"/>cure their State,</l>
+               <l>And for a while defie the pow'r of Fate.</l>
+               <l>The panting World trembled to hear her Name;</l>
+               <l>Droop'd when she thunder'd on its massy Frame.</l>
+               <l>The Ʋniverse shook when Wars sign was given,</l>
+               <l>And without pause resign'd their Souls to Heaven.</l>
+               <l>Thus uncontroul'd she did her Sce<g ref="char:EOLhyphen"/>pter wield,</l>
+               <l>And, like Great <hi>Mars,</hi> reign'd Mo<g ref="char:EOLhyphen"/>narch of the Field.</l>
+               <l>The <hi>Turks,</hi> the <hi>Spaniards,</hi> and the haughty <hi>Galls,</hi>
+               </l>
+               <l>Have felt her force, and shiver'd on their Walls.</l>
+               <pb facs="tcp:104415:5"/>
+               <l>In fear look'd down, did to their Tur<g ref="char:EOLhyphen"/>rets fly,</l>
+               <l>And there untouch'd, like Slaves in secret die.</l>
+               <l>Each private man had <hi>Alexander</hi>'s Rage;</l>
+               <l>Mov'd, like a <hi>Hero,</hi> durst with odds engage:</l>
+               <l>'Midst greatest danger rush upon his Fate,</l>
+               <l>Smile at the stroke, and so the edge rebate:</l>
+               <l>Immortal Glories they with Conquest bring,</l>
+               <l>And fly all full of wounds to meet their King.</l>
+               <l>They who in Battels did with honour fall,</l>
+               <l>Look'd down with Joy from their Coe<g ref="char:EOLhyphen"/>lestial Wall:</l>
+               <l>Fix'd glittering Stars they in that Region are,</l>
+               <l>And bless in Sun-shine <hi>Stetin's</hi> Gods of War:</l>
+               <pb facs="tcp:104415:6"/>
+               <l>In Crouds they glide around the fleet<g ref="char:EOLhyphen"/>ing Sky,</l>
+               <l>Where Wounds are Stars of Immor<g ref="char:EOLhyphen"/>tality.</l>
+               <l>Tir'd with the Toils, when Ʋniversal Peace,</l>
+               <l>Clad in white Robes, did in the World increase,</l>
+               <l>Her Ensigns furl'd, and massy Spears laid down,</l>
+               <l>Laden with Trophies slept th' Ʋncon<g ref="char:EOLhyphen"/>quer'd Crown.</l>
+               <l>Till Fortune, mad to see 'em soar so high,</l>
+               <l>Dash'd all their hopes of future Vi<g ref="char:EOLhyphen"/>ctory.</l>
+               <l>The Great <note n="*" place="bottom">
+                     <hi>Gustavus Adolphus Magnue</hi> first brought <hi>Stetin</hi> into obedience to the Crown of <hi>Sweden.</hi>
+                  </note>
+                  <hi>Gustavus,</hi> with Success and Pow'r,</l>
+               <l>Captiv'd the Brave and Martial Conquerour.</l>
+               <pb facs="tcp:104415:6"/>
+               <l>Thus in obedience to the <hi>Swedish</hi> Crown,</l>
+               <l>In peace they liv'd (though conquer'd) with Renown.</l>
+               <l>Till Emulation made their Glory seem</l>
+               <l>A Foil to <note n="*" place="bottom">
+                     <hi>Pomerania</hi> the Hereditary Countrey of the Elector of <hi>Brandenbure</hi>
+                  </note>
+                  <hi>Brandenburg,</hi> but Grace to them:</l>
+               <l>They soon Resolve, and to their Arms repair;</l>
+               <l>And the <hi>Great Tug of War</hi> was on<g ref="char:EOLhyphen"/>ly there.</l>
+               <l>The Chiefs and Souldiers did with labour sweat,</l>
+               <l>And all at once strive to be Brave and Great.</l>
+               <l>With hourly Conflicts <note n="**" place="bottom">Skirmishes or Sallies.</note> each the other greet,</l>
+               <l>And make a War if but a Couple meet.</l>
+               <l>This way they look, and then, as if in<g ref="char:EOLhyphen"/>spir'd—</l>
+               <pb facs="tcp:104415:7"/>
+               <l>Ran on their Foes with shouts that reach'd the Skies,</l>
+               <l>And fill'd the glittering Air with Vi<g ref="char:EOLhyphen"/>ctories.</l>
+               <l>They fought like <hi>Britains,</hi> thorough Seas of Gore,</l>
+               <l>And imitate their Battels o'er and o'er:</l>
+               <l>But all in vain, their numbers still decrease;</l>
+               <l>Their Chiefs were tir'd, and wish'd to have a Peace.</l>
+               <l>Their Veins thus drein'd of its Illu<g ref="char:EOLhyphen"/>strious Blood,</l>
+               <l>Flow'd in the Streets, and made a Rapid Flood.</l>
+               <l>Their glorious Structures into Ashes hurld,</l>
+               <l>Seem'd like the Ruines of a Little World:</l>
+               <l>And what before did with such Splen<g ref="char:EOLhyphen"/>dour grace,</l>
+               <l>Th' unruly Fire and Canon did de<g ref="char:EOLhyphen"/>face.</l>
+               <pb facs="tcp:104415:7"/>
+               <l>All, all thus levell'd, urg'd the Brave to yield:</l>
+               <l>When 'twas impossible to keep the Field,</l>
+               <l>They with such Honour did to Fate Resign,</l>
+               <l>As made their Glorious Lustre brigh<g ref="char:EOLhyphen"/>ter shine.</l>
+               <l>The fam'd ELECTOR bless'd them from a far,</l>
+               <l>And only took the Honour of the War:</l>
+               <l>To them he Left what Fortune justly Gave,</l>
+               <l>As a Reward to Men so Great and Brave.</l>
+               <l>Ʋnequall'd Gifts are to their Valours giv'n,</l>
+               <l>As Saints send up their Pray'rs in Thanks to Heaven.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104415:8"/>
+            <pb n="1" facs="tcp:104415:8"/>
+            <head>AN ACCOUNT Of the SIEGE of STETIN.</head>
+            <p>
+               <hi>STETIN</hi> as it hath been the Miracle of the Age, and Wonder of its Enemies, (for unparallell'd Courage and Resolution) ought now to be the Work of each ingenious Writer, and Discourse of every Martial Man. Fame has already spoke suf<g ref="char:EOLhyphen"/>ficient in the publick praise of that undaunted City, whose Actions I now mean to particularize.</p>
+            <pb n="2" facs="tcp:104415:9"/>
+            <p>Whoever has read <hi>Mercator Atlas</hi> may be very well informed of the situation of <hi>Stetin:</hi> But for fear it might have scap'd the view of some of the Readers of this Piece, according to that Famous Author, I shall give you an account of it; and first of <hi>Pomerin</hi> or <hi>Pomerania:</hi> It is a Dukedom lying along the <hi>Eastern Sea,</hi> and is divided into two Parts, the Upper and the Lower, between which the <hi>Oder</hi> runneth: Lower <hi>Pomerain</hi> shooteth out <hi>Eastward,</hi> and contains in it the Country of the <hi>Vandals</hi> and <hi>Cassubans,</hi> Upper <hi>Pomerania</hi> com<g ref="char:EOLhyphen"/>prehendeth in it the Dukedom of <hi>Stetin</hi> and <hi>Wolgast.</hi> In both these Parts are many fine Towns, of which <hi>Bard</hi> is not the least. Some affirm that this Town took its name from the <hi>Longobards,</hi> others from the River <hi>Bartre,</hi> which lieth near unto it, and runneth into the Sea. The Dukes of <hi>Pomerin</hi> made this
+<pb n="3" facs="tcp:104415:9"/> their Court or place of residence. It lieth three Dutch miles from <hi>Straelsond,</hi> seven from <hi>Rostock,</hi> and as many from <hi>Gripswaldt;</hi> from thence one may travail very com<g ref="char:EOLhyphen"/>modiously to the Isle of <hi>Rugen,</hi> and into some other Isles of <hi>Denmark: Stetin</hi> is the cheif City in <hi>Pomerin,</hi> lying very pleasantly upon the <hi>Oder,</hi> and was so famous and con<g ref="char:EOLhyphen"/>siderable, that the Dukes of <hi>Pomerin</hi> took their names from it: It is most certain that the <hi>Vandals,</hi> a wild and savage People, first Inhabited this Country. Some derive the name of <hi>Stetin</hi> from a certain People in <hi>Germany,</hi> called <hi>Sydenii,</hi> whereof <hi>Ptolomy</hi> makes mention. They re<g ref="char:EOLhyphen"/>ceived the Christian Faith, <hi>Anno one thousand one hundred and fifteen,</hi> by the means and help of <hi>Otho Bi<g ref="char:EOLhyphen"/>shop of Bamberg, Wartislaus the Duke, and his Sons, then ordained a Bishoprick at Woollen, and founded</hi> St. <hi>Jame's Church in Stetin.</hi>
+               <pb n="4" facs="tcp:104415:10"/> The <hi>Oder</hi> there hath in divers pla<g ref="char:EOLhyphen"/>ces Bridges made over it, whereof the greatest and firmest is as you go into the Suburbs, near to which are many Garners of Corn, and divers Wharfs, where they build Shipping for the Sea, and Boats for their fresh Rivers: but the greatest of all is over the <hi>Oder</hi> upon the way to <hi>Dantzick,</hi> but to <hi>Frank<g ref="char:EOLhyphen"/>ford</hi> on the <hi>Oder</hi> you must Sail, or be drawn up against the stream. The City is fortified round about with <hi>Walls, Turrets, Moats,</hi> and <hi>Gates,</hi> and lieth four-square: the principal Churches are St. <hi>Maries,</hi> St. <hi>Othos,</hi> St. <hi>Nicholas,</hi> St. <hi>James,</hi> and others. There are divers Market places in it, as the <hi>Herb, Horse,</hi> and <hi>Fish markets.</hi> The Town-house stan<g ref="char:EOLhyphen"/>deth hard by St. <hi>Nicholas</hi> Church in the <hi>New Market,</hi> from whence there go streets straight out right through the whole City: The greatest Beauty thereof is the Pal<g ref="char:EOLhyphen"/>lace,
+<pb n="5" facs="tcp:104415:10"/> or Prince's Court, which is built with such Art and Magnifi<g ref="char:EOLhyphen"/>cence, that none of the <hi>Italian</hi> Courts can equal it: <hi>Philippus</hi> and <hi>Barnimius</hi> Dukes of <hi>Pomerin,</hi> e<g ref="char:EOLhyphen"/>rected there an Illustrious School<g ref="char:EOLhyphen"/>house, and bestowed upon it the Revenues of St. <hi>Maries,</hi> and St. <hi>Othos</hi> Churches, and ordained four <hi>Curates</hi> and three <hi>Deacons</hi> over it. The first Duke was called <hi>Wartislaus the second,</hi> who died in the year of our Lord, 1222. he was the first that conquered the <hi>Vandals. Stetin</hi> also is accounted one of the cheifest <hi>Hans. Towns,</hi> and although the Prince holds his Court within the City, yet they have not the less Freedom. The Reformation of their Religion was first brought in by <hi>Paulus a Rhoda,</hi> sent thither by <hi>Martin Luther,</hi> when <hi>Bugislaus</hi> was Duke. <hi>Gustavus Adolphus Magnus</hi> King of <hi>Sweden,</hi> landed in <hi>Germany</hi> with his Army, <hi>Anno</hi>
+               <pb n="6" facs="tcp:104415:11"/>
+               <hi>Domini</hi> 1630. and after he had taken in <hi>Strael<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond,</hi> made the first Conquest of <hi>Stetin,</hi> which has ever since belonged to the Crown of <hi>Sweden:</hi> And like true and Loyal Subjects, have pay'd their Homage to each successive Monarch. The whole Country is very fruitful, and the City is self Populous and Rich, and the Inhabitants of undaunted Resolutions, as this last Siege can sufficiently demonstrate.</p>
+            <p>It may seem something doubtful to the Readers, how His <hi>Highness the Elector of Brandenburgh</hi> should make any Claim or Title to <hi>Stetin,</hi> especially so great as to be a motive for this present Siege: but because the Readers shall want nothing to give them a clear light into the former successions, according to that famous Cosmographer <hi>Doctor Heylyn,</hi> I shall give you this follow<g ref="char:EOLhyphen"/>ing account.</p>
+            <pb n="7" facs="tcp:104415:11"/>
+            <p>The first Prince of <hi>Pomerin</hi> we meet with upon Record, was one <hi>Barnimus,</hi> who governed <hi>Anno</hi> 933. and after it passed from hand to hand, and became a divided State, Issue failing in the house of <hi>Otho</hi> the Third, who was co-partner with <hi>Bugislaus</hi> the Son of <hi>Barnimus,</hi> in the Government; that part was dis<g ref="char:EOLhyphen"/>posed of to <hi>Frederick</hi> the Second, Marquess and <hi>Elector of Branden<g ref="char:EOLhyphen"/>burgh,</hi> by the Emperour <hi>Frederick</hi> the Third, which occasioned much con<g ref="char:EOLhyphen"/>tention between these Marquesses &amp; the Dukes of <hi>Pomerania;</hi> yet it was at last concluded, That both Princes should continue the Arms and Ti<g ref="char:EOLhyphen"/>tles, and that the possession should be delivered to <hi>Bugislaus Duke of Pomerin,</hi> who dying without Issue Male, it descended to the Heirs of the <hi>Elector of Brandenburgh,</hi> who put in for the Inheritance according to the aforementioned Agreement, who at last made at the Treaty of
+<pb n="8" facs="tcp:104415:12"/>
+               <hi>Munster,</hi> after a tedious War in <hi>Germany</hi> with variable success, an other absolute Agreement.</p>
+            <p>
+               <hi>Anno</hi> 1632. after the <hi>Swedes</hi> having conquered <hi>Pomerania, Chri<g ref="char:EOLhyphen"/>stiana</hi> sole Daughter of that brave Conquerour <hi>Gustavus Adolphus Magnus,</hi> but of the age of seven years, then Queen of <hi>Sweden,</hi> (the Kingdom being governed by the Nobless) agreed that she and her Successors, Kings and Queens of <hi>Sweden,</hi> should also be Kings and Queens of <hi>Stetin,</hi> as a place then belonging to the Crown of <hi>Sweden,</hi> and that the Lower <hi>Pomerania</hi> should belong to the house of <hi>Brandenburg.</hi> Thus you find in part how the City came to be in the possession of the <hi>Swedes,</hi> and the Duke of <hi>Brandenburgh</hi> to pre<g ref="char:EOLhyphen"/>tend a Right.</p>
+            <div n="1" type="letter">
+               <pb n="9" facs="tcp:104415:12"/>
+               <head>The First Letter.</head>
+               <p>HIs Highness the <hi>Elector of Bran<g ref="char:EOLhyphen"/>denburgh,</hi> having had a long desire to bring this Town to his Subjection, (which was formerly his Predecessors) rais'd by the Aid and Authority of the King of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> a considerable Army, who kept their Rendezvous at a place called <hi>Schooet,</hi> and not long after directed their March towards <hi>Ste<g ref="char:EOLhyphen"/>tin;</hi> and <hi>July</hi> the seventh 1677. covered it with an Army of near Twenty Thousand men, taking in the most considerable Posts, and raising Batteries along part of the <hi>Oder,</hi> by which he much gall'd the Shipping that anchor'd in the Ri<g ref="char:EOLhyphen"/>ver. On the other side, the <hi>Ste<g ref="char:EOLhyphen"/>tiners</hi> were not idle, (having long
+<pb n="10" facs="tcp:104415:13"/> expected a Siege) but sent away most of those People they thought might be unfitting for so weighty an Employment. The <hi>Elector</hi> ha<g ref="char:EOLhyphen"/>ving intrench'd his Men, sent a Trumpet to the Town to demand a Surrender, and offer Honourable Conditions: But the Inhabitants, as well Burghers as common Soul<g ref="char:EOLhyphen"/>diers, with a unanimous Voice, and undaunted Resolutions, resolving to defend it to the utmost of their Lives and Fortunes, dispatch'd the Herauld with a Message not suiting his <hi>Highness</hi> desire, nor the hopes he had of an early Surrender, which made him prepare for Action. The next day his <hi>Highness</hi> laid a Bridge over an Arm of the <hi>Oder,</hi> and sent out a Party, who in a short time took <hi>Dam</hi> (a small Fortifica<g ref="char:EOLhyphen"/>tion of the <hi>Stetiners)</hi> and in it po<g ref="char:EOLhyphen"/>sted a Captain (who had behaved himself very couragiously in the Action) with one hundred and
+<pb n="11" facs="tcp:104415:13"/> forty men, who were attacked the next morning by five hundred men under the Command of Captain <hi>Vander-Noot,</hi> who in a short time retook <hi>Dam;</hi> but advancing too far, met with a <hi>Brandenburg</hi> Par<g ref="char:EOLhyphen"/>ty, betwixt whom began a very sharp Dispute: But Captain <hi>Van<g ref="char:EOLhyphen"/>der Noot</hi> finding his Enemies press so eagerly upon him, was forc'd to retire, with the loss of about five and twenty men, besides one Cap<g ref="char:EOLhyphen"/>tain, one Major, and about eighty common Souldiers dangerously wounded. During the time of this Action the <hi>Brandenburgers</hi> were not idle, but made a passage through the Wood on the <hi>Moras</hi> as far as the <hi>Tolschans</hi> (a small For<g ref="char:EOLhyphen"/>tification of the <hi>Stetiners)</hi> and the next morning Major General <hi>Swe<g ref="char:EOLhyphen"/>rin</hi> attack'd <hi>Plockhu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se,</hi> and after a short Dispute took it. But by the way, pray give me leave to declare the action of a <hi>common Souldier,</hi>
+                  <pb n="12" facs="tcp:104415:14"/> who after the <hi>Fort</hi> was taken, could not be satisfied but he would have the Life of the Major, whom he ran upon as vigorously as if he had been a Victor, in the action killing the Majors Horse, but was himself kill'd by one of the Major's men. The <hi>Fort</hi> being taken, the General order'd the Guns to be remov'd, and set Fire to the <hi>Fort,</hi> which was soon destroy'd. The next day the said Major attack'd the <hi>Tolschans,</hi> which the <hi>Swedes</hi> Commander not being able to defend, quitted; ha<g ref="char:EOLhyphen"/>ving first remov'd the Guns, and in his Retreat set fire to the Bridge, which was presently quench'd, and the Post taken in by the Major. The Besieg'd no whit daunted at these petty Losses, still continue their Resolutions, and prepare themselves for a General Assault, which they daily expect from the <hi>Elector's</hi> Troops.</p>
+            </div>
+            <div n="2" type="letter">
+               <pb n="13" facs="tcp:104415:14"/>
+               <head>The Second Letter.</head>
+               <p>THe slow marching of the <hi>Lunen<g ref="char:EOLhyphen"/>burgh Troops</hi> has much retar<g ref="char:EOLhyphen"/>ded the advancement of the Siege, which the <hi>Elector</hi> intends at their arrival to carry on with a great deal of vigor; in the mean time the Army is busie in Retrenching themselves, and have already begun to work upon the lines of <hi>Communication.</hi> There are daily Skirmishes between the Besiegers and the Besieged, but none of any moment until the <hi>4th.</hi> of <hi>August,</hi> 1677. on which on both sides were kill'd and woun<g ref="char:EOLhyphen"/>ded near 200 men, the manner was as followeth: <hi>Captain Vander-Noot,</hi> and the <hi>Captain</hi> of the <hi>Tolschans</hi> manned several Boats, intending to interrupt the <hi>Pioneers,</hi> who were
+<pb n="14" facs="tcp:104415:15"/> making retrenchments before the <hi>Vrowen-Port,</hi> (a considerable Forti<g ref="char:EOLhyphen"/>fication of the <hi>Stetiners)</hi> but the said Pioneers had so well fortified themselves, and being strengthned by a Detachment of 400 men, they engaged the <hi>Stetiners,</hi> be<g ref="char:EOLhyphen"/>twixt whom began a very sharp dispute; <hi>Capt. Vander-Noot</hi> and his men being forced to retire in a great deal of disorder, some were drowned in the <hi>Oder,</hi> others kill'd, and about thirty taken Prisoners. The same day the <hi>Lunen burgh Troops</hi> arrived, and had their sta<g ref="char:EOLhyphen"/>tion designed before the <hi>Vrowen-Port:</hi> It was not long before they broke ground, for within three days they began to work upon their Lines of <hi>Communication,</hi> and prepared three Batteries, each to consist in sixteen or eighteen pieces of <hi>Cannon.</hi> In <hi>Dam</hi> and both Leaguers great provision? of <hi>Fa<g ref="char:EOLhyphen"/>scines</hi> are making, and without any
+<pb n="15" facs="tcp:104415:15"/> Demur they intend to make a ge<g ref="char:EOLhyphen"/>neral Assault; in order to which, the <hi>Elector</hi> of <hi>Brandenburgh</hi> is preparing six Batteries, each also to consist in sixteen or eighteen Pieces of Cannon. <hi>Provision, Can<g ref="char:EOLhyphen"/>nons</hi> and <hi>Mortars</hi> come daily into the Camp, and nothing is wanting to compleat so great a work.</p>
+               <p>
+                  <hi>August</hi> the <hi>5th.</hi> Major General <hi>Swerin,</hi> was advanced within five hundred paces of the <hi>Lastady,</hi> (an Important Post of the Besieged) from whence he intends to fling Granadoes into the Town. The same day the <hi>Elector of Brandenburg's</hi> Trenches were opened, and a par<g ref="char:EOLhyphen"/>ty of Horse were sent out, and took the Fort <hi>Lestoile,</hi> (a small Post of the Besieged) the <hi>Swedes</hi> had posted some <hi>Vessels</hi> in the Ri<g ref="char:EOLhyphen"/>ver to observe the motion of the <hi>Danes Frigates,</hi> who were engaged by the <hi>Danes,</hi> and after a sharp dispute, forced to retire. Next mor<g ref="char:EOLhyphen"/>ning,
+<pb n="16" facs="tcp:104415:16"/> the <hi>Swedes</hi> engaged the <hi>Danes,</hi> and after two hours Fight fired one of them, and gave Chace to the rest; but were so hotly saluted by a <hi>Fort</hi> belonging to the Enemy, that they were forced to retire, and leave off that advantagious Chace. <hi>August</hi> the <hi>10th.</hi> Major General <hi>Swerin</hi> began to make use of his Batteries, with which he did great execution: The Relation of which, though it may perhaps not be re<g ref="char:EOLhyphen"/>quisite, will at least yield some de<g ref="char:EOLhyphen"/>light to those who desire every Particular.</p>
+               <p>
+                  <hi>August</hi> the <hi>10th.</hi> the Major be<g ref="char:EOLhyphen"/>gan to play upon that part of the Town where he was quartered against: And the first execution his Shot did (as near as can be guessed) was in parting a Fray: For a Black-Smith, a Souldier and Inhabitant of the Townlbeing new<g ref="char:EOLhyphen"/>ly come from the Guard, and finding a man with his Wife, did very
+<pb n="17" facs="tcp:104415:16"/> fairly and civily desire him to forbear, and resign his place to him; which without any reply he did, and so went away: the man not being able to put up this affront, taxed his Wife severely, and drag'd her out by the Hair of the head into the streets, where one Shot beat both their Brains out, and so ended the Fray; but not ending with the Shot, which had not done the mischief it intended, for in the same street it struck a Minister who was going to bury a Neighbour. The same Shot did a great deal more mischief, but not considerable nor pleasant enough to give you an account of it.</p>
+               <p>The same day the Regiments of <hi>Gotz</hi> and <hi>Donhoff</hi> (two <hi>Danish</hi> Commanders) went into the Tren<g ref="char:EOLhyphen"/>ches, and advanced their works the night following very considerably, with the loss only of fifteen Men, although the Besieged fired very
+<pb n="18" facs="tcp:104415:17"/> furiously both with great and small Shot. The same day the <hi>Elector's</hi> Regiments entred the Trenches, and there lodged themselves. The eleventh, the Besieged made a Salley with three hundred Men, and in an hours Dispute beat <hi>Donhost's</hi> Re<g ref="char:EOLhyphen"/>giments out of the Trenches a<g ref="char:EOLhyphen"/>gain, but were soon forc'd to retire (Succours being sent by the <hi>Elector)</hi> with the loss of <hi>Twenty eight Men, one Captain, and two Corporals:</hi> The same day the great Battery that was begun the seventh instant, was ended, with the loss only of <hi>three or four Men,</hi> and the Tren<g ref="char:EOLhyphen"/>ches were advanced about <hi>seventy Paces</hi> nearer the Town, where his <hi>Highness</hi> gave Orders for the raising of another Battery. The next night the Besieged made a Salley, but were repulsed without any considerable loss of either side. The fourteenth the <hi>Elector</hi> be<g ref="char:EOLhyphen"/>gan to Fire upon the Town, upon
+<pb n="19" facs="tcp:104415:17"/> the Ships in the River, and upon the <hi>Lastadie,</hi> from five several Bat<g ref="char:EOLhyphen"/>teries: With which he did great Execution, sinking several of the Ships in the River, and making considerable Breaches in the <hi>La<g ref="char:EOLhyphen"/>stady.</hi> The same day he made use of his Mortars, and burned great part of the <hi>Suburbs.</hi> By Deserters that came from the Town, we were inform'd that our Shot had killed above <hi>hundred and fifty Burghers,</hi> and wounded <hi>Colonel Vander-Noot</hi> mortally. The next night we po<g ref="char:EOLhyphen"/>sted our selves on the <hi>Molenbergh,</hi> (an other Post of the <hi>Stetiners)</hi> which is a hundred and fifty paces from the <hi>Counterscarp,</hi> upon which was erected three Batteries more, consisting in Thirty pieces of <hi>Can<g ref="char:EOLhyphen"/>non.</hi>
+               </p>
+            </div>
+            <div n="3" type="letter">
+               <pb n="20" facs="tcp:104415:18"/>
+               <head>The Third Letter.</head>
+               <p>THe 14th, the <hi>Brandenburghs</hi> fir'd from their Batteries as the day before, and in a short time sunk or so shatter'd most of the Ships in the River, that they were rendered useless. At night we fir'd our Granadoes into the Town, which caus'd two or three several Fires in the City, but were soon quench'd. The next morning about seven a Clock, we might plainly see the Steeple of the great Church in a Flame, which about two hours afterwards fell down, and fir'd the Body of the Church, which in a few hours was consum'd to Ashes. About noon His Ele<g ref="char:EOLhyphen"/>ctoral Highness sent the Adjutant General with a Trumpet to the
+<pb n="21" facs="tcp:104415:18"/> Town, to tell the Burghers, that His Highness was much griev'd to see so fine a Church in a flame; and to admonish them to send out De<g ref="char:EOLhyphen"/>puties to Treat with His Highness, assuring them they would find Him disposed to grant them very Ho<g ref="char:EOLhyphen"/>nourable Conditions. Being come to the Gate, and this Message de<g ref="char:EOLhyphen"/>liver'd, those that were there only answer'd, <hi>They were Resolv'd still to defend the Town.</hi> The same day three great Fires broke out in the City, in three several places: And by Deserters we had this follow<g ref="char:EOLhyphen"/>ing Account of the Damage the City and Suburbs sustained by the Besiegers Cannons and Mortars.</p>
+               <p>
+                  <hi>August</hi> 14. We were saluted by the Cannon from the <hi>Elector's</hi> Bat<g ref="char:EOLhyphen"/>teries, which much gall'd the Bur<g ref="char:EOLhyphen"/>ghers and common Souldiers, and in less then six hours time there was near sixty of both sorts kill'd. The Women that had out of pure
+<pb n="22" facs="tcp:104415:19"/> zeal stayed in the City, to accom<g ref="char:EOLhyphen"/>pany their Husbands or Fathers, were stowed in Vaults and Cellars under ground, and by that means secured from the violence of the Shot. The Souldiers quartered in the <hi>Meal-Market</hi> were forc'd to re<g ref="char:EOLhyphen"/>move, and take up their Quarters underneath the Stone Wall, where they were more secure then in the heart of the City. What Execu<g ref="char:EOLhyphen"/>tion our Cannon has done, we know not, but we guess consider<g ref="char:EOLhyphen"/>able; for we could from the <hi>Coun<g ref="char:EOLhyphen"/>terscarp</hi> see some of the <hi>Pranden<g ref="char:EOLhyphen"/>burgh</hi> Troops retire from the <hi>Mo<g ref="char:EOLhyphen"/>lemberg;</hi> but what Execution was done by our Shot on the <hi>Lunen<g ref="char:EOLhyphen"/>burghs</hi> side, we know not. About three the Cannons ceased playing, and then we made a Salley with three hundred men, which did con<g ref="char:EOLhyphen"/>siderable Execution: for besides the Men kill'd, they brought in twenty five common Souldiers, one
+<pb n="23" facs="tcp:104415:19"/> Captain, and an Ensign, Prisoners. At night we were assaulted by the Mortars, which did great Execu<g ref="char:EOLhyphen"/>tion; for besides firing the great Church, they set fire in three pla<g ref="char:EOLhyphen"/>ces in the City, which Fires con<g ref="char:EOLhyphen"/>sumed above sixty Houses before they could be quench'd; they en<g ref="char:EOLhyphen"/>deavour'd all they could to save the Church, but could not, for in less then five hours the whole Stru<g ref="char:EOLhyphen"/>cture was burnt to Ashes. The loss of this Church, and the presen<g ref="char:EOLhyphen"/>tation of unavoidable Ruine if they persisted in the Siege, and being out of any Hopes of Succour, they endeavoured to oblige the Gover<g ref="char:EOLhyphen"/>nour to an early Surrender, and to procure good Conditions for them, laying before him the Misery they were like to be in if they continued stubborn: With this and the like supplications they moved the Go<g ref="char:EOLhyphen"/>vernour so far, as to obtain a pro<g ref="char:EOLhyphen"/>mise from him, That if they were
+<pb n="24" facs="tcp:104415:20"/> not relieved in a certain time, he would consent to all they should desire of him.</p>
+               <p>Nothing of moment happened till the 20th, when at noon the Be<g ref="char:EOLhyphen"/>sieged made a Salley, and attack'd the <hi>Elector's</hi> Out-Guards with great Resolution, but were repulsed; se<g ref="char:EOLhyphen"/>veral of them being kill'd, wound<g ref="char:EOLhyphen"/>ed, and taken Prisoners.</p>
+               <p>The night following they made another Salley, with a Party of fif<g ref="char:EOLhyphen"/>ty, who were all chosen men; they fell upon the <hi>Elector's</hi> men that were in the Trenches, and both sides fought stoutly for some time; but the Besieged were forced to re<g ref="char:EOLhyphen"/>tire, leaving about twelve of their Companions dead behind them.</p>
+               <p>Yesterday was finish'd a Re<g ref="char:EOLhyphen"/>doubt at the head of our Trenches, which will hinder the Besieged from making any more Sallies: The <hi>Elector</hi> is raising another Bat<g ref="char:EOLhyphen"/>tery near the Counterscarp, on
+<pb n="25" facs="tcp:104415:20"/> which will be planted fifty Pieces of Cannon, whereof three will be whole Cannon, and shoot Bullets of sixty pound, nine will be forty eight pounders, and the rest will be half Cannon.</p>
+               <p>
+                  <hi>August</hi> 22. The <hi>Elector</hi> sent to the Town to demand a Surrender, and at the same time to relate the pity he had for 'em, and the grief he should endure to see so brave a People ruin'd, which they must inevitably be, if they persisted: but they still resolutely sent His High<g ref="char:EOLhyphen"/>ness word, They neither hoped his pity, nor feared his fury, they be<g ref="char:EOLhyphen"/>ing so well resolved within them<g ref="char:EOLhyphen"/>selves, that nothing but force should compel them to have a thought of Capitulation.</p>
+               <p>By Deserters the <hi>Elector</hi> was in<g ref="char:EOLhyphen"/>form'd that the People of <hi>Stetin</hi> had made it Death for any one to speak of a Surrender; and that they had put their Women and
+<pb n="26" facs="tcp:104415:21"/> Children into places purposely pre<g ref="char:EOLhyphen"/>pared under ground, to secure them from the Enemies Cannon and Fire<g ref="char:EOLhyphen"/>balls, as well as to remove them from their Husbands and Rela<g ref="char:EOLhyphen"/>tions, so to take from them all Ob<g ref="char:EOLhyphen"/>jects of Tenderness.</p>
+               <p>
+                  <hi>August</hi> 24. About two in the af<g ref="char:EOLhyphen"/>ternoon the Besieged made a Salley with four hundred Horse on the side of the <hi>Lunenburgh's</hi> Quarter, whose Out-Guards were at first Repulsed, and a Captain and about seven or eight kill'd and wounded; after which, the Besieged retired again.</p>
+               <p>In seven or eight days the great Battery will be finished, and then we doubt not to bring them to a Surrender: for we are already come so near with our Trenches, that our advanced Guards can talk with those in the Out-Works of the Besieged. The badness of the wea<g ref="char:EOLhyphen"/>ther, and the plenty of the rain
+<pb n="27" facs="tcp:104415:21"/> that hath fallen, has much retarded our progress in the Siege; our men not being able to work, or almost keep their Trenches, for fear of drowning: Which has much en<g ref="char:EOLhyphen"/>courag'd the Besieged, who prom<g ref="char:EOLhyphen"/>pted by fair Promises, both from the King of <hi>Sweden</hi> and Count <hi>Co<g ref="char:EOLhyphen"/>ningsmark.</hi> of a speedy Relief, con<g ref="char:EOLhyphen"/>tinue most resolute to defend the Place to the last Extremity, the Burghers doing Duty as the com<g ref="char:EOLhyphen"/>mon Souldiers, which are not above fifteen hundred.</p>
+               <p>
+                  <hi>August</hi> 30. In the morning a Bo<g ref="char:EOLhyphen"/>dy of the Besieged appeared with<g ref="char:EOLhyphen"/>out their Works, but retired with<g ref="char:EOLhyphen"/>out effecting any thing, finding no opportunity at that time. But the next day, befriended by the wet weather, the Besieged made a Sal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey with one hundred and twenty men, in which they much incom<g ref="char:EOLhyphen"/>moded us, but were forc'd to re<g ref="char:EOLhyphen"/>tire with the loss of ten men; three
+<pb n="28" facs="tcp:104415:22"/> we took Prisoners, and the other seven were kill'd.</p>
+               <p>The next day they attempted us again, but were forced to retire, with the loss only of five men, who were taken Prisoners. They all report that the Burghers do more service then the Garrison, and are even more resolute in the Defence of the Place. They also tell us that they had put the Governour in Prison, only for showing some inclination to a Treaty; and that a Burgher who let fall some words tending to a Peace, was kil<g ref="char:EOLhyphen"/>led in the Market-place. Our grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> expectation is to see how the <hi>Steti<g ref="char:EOLhyphen"/>ners</hi> will behave themselves whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our great Battery which is finished begins to play; and the more, be<g ref="char:EOLhyphen"/>cause on the <hi>Elector's</hi> side we ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> advanced so far, that the Besiege<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> can make but little use of their Can<g ref="char:EOLhyphen"/>non; for we are come so near th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ditch, that they can hardly brin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:104415:22"/> them to bear upon us: but they are not sparing of their small shot. But on the side of the <hi>Lunenburgh's</hi> Quarter, the gaining of Ground proves a work of great difficulty, occasioned by the ill weather and continual rains they have had of late. Insomuch that the <hi>Lastady</hi> is unaccessible, which has obliged the Besiegers to give over their At<g ref="char:EOLhyphen"/>tacks on that side.</p>
+               <p>By Deserters we are told that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Burghers have released the Go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ernour, and have re-entred into a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olemn Engagement to defend the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lace to the very last Extre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity.</p>
+               <p>
+                  <hi>Septemb.</hi> 4. At night the Besieged <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade a Salley, and fell into the Quarter of Collonel <hi>Schoning,</hi> but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithout any considerable success; <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e next night they did much da<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age to our men that were in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>renches, shooting upon them with ones out of two Mortars.</p>
+               <pb n="30" facs="tcp:104415:23"/>
+               <p>Though the ill weather has hin<g ref="char:EOLhyphen"/>der'd our Proceedings very much, yet we are now on all sides within one hundred paces of the Counter<g ref="char:EOLhyphen"/>scarp.</p>
+               <p>Besides our great Battery, we have raised several more, on which will be planted 40 Mortar-Pieces; which it is not to be doubted bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will do terrible Execution, we ha<g ref="char:EOLhyphen"/>ving at present two hundred and fifty Pieces of Cannon, great and small, all mounted.</p>
+               <p>By Deserters we are assured, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Burghers of <hi>Stetin</hi> have no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no disposition to come to a Treaty being more resolute than the Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>diers of the Garrison, of who<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there is at present about fiftee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hundred, and about five thousand Burghers who are able to be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Arms.</p>
+            </div>
+            <div n="4" type="letter">
+               <pb n="31" facs="tcp:104415:23"/>
+               <head>The Fourth Letter.</head>
+               <p>
+                  <hi>SEptember</hi> the sixth, His <hi>Highness</hi> the <hi>Elector of Brandenburgh</hi> sent a Trumpet to the Town, to ad<g ref="char:EOLhyphen"/>vertise them of the great prepara<g ref="char:EOLhyphen"/>tions he had made to depopulate the Town, and lay the whole City in ashes, unless they came to a timely Surrender; withal, assu<g ref="char:EOLhyphen"/>ring them that His <hi>Highness</hi> would grant them such honourable Con<g ref="char:EOLhyphen"/>ditions, that they should not have the least occasion to repine; neither would he hinder or take away any of those Priviledges they en<g ref="char:EOLhyphen"/>joyed under the King of <hi>Sweden.</hi> Adding, that as he ever had a love for his Native Countrey, and es<g ref="char:EOLhyphen"/>pecially for this the ancient Seat of his Ancestors, he would rather add, then diminish ought of their Pri<g ref="char:EOLhyphen"/>viledges;
+<pb n="32" facs="tcp:104415:24"/> but if they persisted, he would the next day fire from all his Batteries, and banishing Re<g ref="char:EOLhyphen"/>more, burn and demolish all. The Inhabitants no whit dismayed at the <hi>Elector's</hi> Message, returned the Trumpet back with this an<g ref="char:EOLhyphen"/>swer, That if their Houses were burnt or destroyed, they had where-withal to rebuild them a<g ref="char:EOLhyphen"/>gain.</p>
+               <p>
+                  <hi>September</hi> the 7, 8, 9, 10, 11, and 12. the Elector of <hi>Brandenburgh</hi> fired without intermission into the Town; which seemed to be all laid in Ashes: for from ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quarters we cannot discover any Houses standing, which are no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very much ruin'd. On the 11th one of the greatest Mortars in the Camp broke, and kill'd 15 Men. O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the 12th, we beat down two of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gates of the Town, which th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Besieged filled up with Earth: <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> night they made a Sally with 20<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="33" facs="tcp:104415:24"/> Men on the <hi>Lunenburgh</hi> Quarter, and at the same time another on the <hi>Brandenburghs</hi> Quarter, both parties being commanded by Prin<g ref="char:EOLhyphen"/>cipal Officers, but they succeeded in neither according to expectati<g ref="char:EOLhyphen"/>on; in the mean time we are ad<g ref="char:EOLhyphen"/>vanced with our Trenches very near the Counterscarp, and we are preparing to Attack the same; and in Order thereto, on the 13th, raised up a work, from whence we can see and shoot into the Ditch.</p>
+               <p>
+                  <hi>September</hi> the <hi>14th,</hi> between 9 and 10 at night, the Besieged made a Vigorous Salley upon the <hi>Bran<g ref="char:EOLhyphen"/>denburghs</hi> Quarter, but were so warmly Received and Repulsed, that they were followed to the very <hi>Counterscarp;</hi> and had the Be<g ref="char:EOLhyphen"/>siegers been provided at that time with Spades, Pickaxes and other <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nstruments fit for the Intrenching themselves, they might have post<g ref="char:EOLhyphen"/>ed themselves upon the said <hi>Coun<g ref="char:EOLhyphen"/>terscarp;</hi>
+                  <pb n="34" facs="tcp:104415:25"/> the night following we fired very furiously upon the Town, and did so great Execu<g ref="char:EOLhyphen"/>tion that we cannot see any House standing: Yesterday about eleven in the Morning, the Besieged made a Salley upon the <hi>Lunenburghs</hi> Quar<g ref="char:EOLhyphen"/>ter, with Six Squadrons of Horse, and Three Battalions of Foot, in which they succeeded so well, as to drive their Enemies above a 100 paces from the works they had raised, which were soon Ruin'd by the Pioneers that followed them: thus for about an hour they re<g ref="char:EOLhyphen"/>mained Victors; till the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nemies being strengthned by a Detach<g ref="char:EOLhyphen"/>ment of one hundred Horse, re<g ref="char:EOLhyphen"/>incourag'd their beaten Compa<g ref="char:EOLhyphen"/>nions; who soon Rallied, and be<g ref="char:EOLhyphen"/>tween these two began a Second Fight; the Besieged fearing the loss of all their men if they per<g ref="char:EOLhyphen"/>sisted, were forc'd to Retire, leaving behind them 60 Men dead and
+<pb n="35" facs="tcp:104415:25"/> Prisoners; the <hi>Lunenburghs</hi> lost above one hundred Men in this Action. Nothing of moment hap<g ref="char:EOLhyphen"/>pened till the Eighteenth Instant, unless on the side of the <hi>Branden<g ref="char:EOLhyphen"/>burghs</hi> Quarter, the Besieged ha<g ref="char:EOLhyphen"/>ving made one or two Sallies, but were Repulsed with some loss.</p>
+               <p>His Highness the <hi>Elector</hi> of <hi>Brandenburgh,</hi> in consideration of the Winter season which is ap<g ref="char:EOLhyphen"/>proaching, resolves to put a speedy end to the Siege by a general As<g ref="char:EOLhyphen"/>sault, for which all preparations are making; and the more to in<g ref="char:EOLhyphen"/>courage the Souldiers to go on with vigour, and as an amends for the many hardships they have endu<g ref="char:EOLhyphen"/>red, by reason of the excessive Rains that have fallen, has p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mised them, That if he takes the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by the Assault intended, or whe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ver it shall be taken, Three days Plunder. By Deserters His High<g ref="char:EOLhyphen"/>ness is informed that the <hi>Eurghers</hi>
+                  <pb n="36" facs="tcp:104415:26"/> grow every day more and more obstinate, to defend the place to the last extremity.</p>
+               <p>
+                  <hi>September</hi> the 18th, the Enemy fired very furiously from the Town, with all those Guns that would bear upon us: and about noon, by an unhappy accident, the <hi>Prince of Holstein Sonderburgh</hi> was shot with a Cannon Bullet above the knee, of which he died with<g ref="char:EOLhyphen"/>in four hours afterward, to the great grief of His <hi>Electoral High<g ref="char:EOLhyphen"/>ness.</hi>
+               </p>
+               <p>The same day towards the Even<g ref="char:EOLhyphen"/>ing the Besieged made a Salley, and were Engaged with the <hi>Elector's</hi> Troops for some time; several were kill'd on both sides, especial<g ref="char:EOLhyphen"/>ly the <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lector's:</hi> the Skirmish con<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> about two hours, and then the Besieged returned home.</p>
+               <p>The 18th and 19th we go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ground, and advanced our World so near the <hi>Counterscarp,</hi> that we
+<pb n="37" facs="tcp:104415:26"/> could reach one another with our Pikes. Till the 20th, we were en<g ref="char:EOLhyphen"/>deavouring to find out the Enemies Mines, but could discover but one; the Mines on our side are all rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and in a day or two the general Assault will without doubt be made.</p>
+               <p>
+                  <hi>Sep.</hi> 22. Eight thousand <hi>Danes</hi> early in the morning landed them<g ref="char:EOLhyphen"/>selves on the <hi>Isle of Rugen,</hi> they were a while opposed by 200 <hi>Swedish Horse;</hi> who after some Skirmishes we forced to retire. Count <hi>Coningsmark</hi> upon the News of this, was drawing all his Forces together with a Resolution to pass over to <hi>Rugen</hi> and sight he <hi>Danes:</hi> but His <hi>Electoral Highness</hi> sent out most of his Cavalry to give him a diversion, whilst the o<g ref="char:EOLhyphen"/>ther fortified themselves.</p>
+               <p>
+                  <hi>Sept.</hi> the 22 that night, <hi>Admi<g ref="char:EOLhyphen"/>ral Trump</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rived in the <hi>Elector's</hi> Cam<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> His Highness in
+<pb n="38" facs="tcp:104415:27"/> the Name of the <hi>King of Denmark,</hi> to Assist him with some Horse. Up<g ref="char:EOLhyphen"/>on which his <hi>Electoral Highness</hi> Ordered two Regiments of <hi>Horse</hi> and one of <hi>Dragoons</hi> to march thither, under the Command of <hi>Major General Giessen.</hi>
+               </p>
+               <p>The same day the <hi>Elector</hi> sent a Trumpet with a Letter to the Town, to give the Besieged the News of the <hi>King of Denmarks</hi> being landed; and to admonish them to provide for themselves by Surrendring the place, whilst there was yet room left for it. To which they return'd for answer, That they were not to be taken with Letters and Advices; that if the Besiegers intended to become Masters of the Place, they must make their Attacks vigorously; and they on their side should not be wanting to defend themselves as well as they could.</p>
+               <p>The 23. 24, and 25. we busied
+<pb n="39" facs="tcp:104415:27"/> our selves in springing and search<g ref="char:EOLhyphen"/>ing for the Enemies Mines; which we did with such success, that we found an other Mine, which was made under the main body of our Works; and if sprang, had doubt<g ref="char:EOLhyphen"/>less done great Execution: those Mines we sprung were with such success, that we posted our selves in three several places of the <hi>Coun<g ref="char:EOLhyphen"/>terscarp.</hi>
+               </p>
+               <p>
+                  <hi>September 27th.</hi> the <hi>Lunenburgh</hi> Troops Attack'd a <hi>Half-moon</hi> of the Besieged, and in an hours time possessed themselves of it; not<g ref="char:EOLhyphen"/>withstanding the Besieged sprung two Mines upon 'em, but without any Execution. His <hi>Electoral</hi> Highness has deferred the general Assault, because there is not the least appearance of any Succours to come to the Besieged, which makes him willing to spend some more time in the Siege; not only hoping to bring them to a
+<pb n="40" facs="tcp:104415:28"/> Surrender, but to spare his Men; although it is the general thoughts of all, that His <hi>Highness</hi> would hazzard an Assault (all things be<g ref="char:EOLhyphen"/>ing ready for it) but that some of the Principal Officers are indis<g ref="char:EOLhyphen"/>posed, especially <hi>Velt-Mareshall Dorfling.</hi>
+               </p>
+            </div>
+            <div n="5" type="letter">
+               <pb n="41" facs="tcp:104415:28"/>
+               <head>The Fifth Letter.</head>
+               <p>NOthing of Moment passed on either side, till <hi>October</hi> the <hi>2d.</hi> About four in the morning the Enemy sprung a Mine under one of the Lodgments we had made on the <hi>Counterscarp;</hi> which succeeded so well, that it buried all that were there; Several were kill'd, and about Fourty dig'd out alive, but most of them wounded past reco<g ref="char:EOLhyphen"/>very. The same day came a De<g ref="char:EOLhyphen"/>serter into the Camp, who assured us that the Besieged had lost a great many men, and that on the 27th past above a hundred Men were kill'd by the Enemy, and destroyed by their own Mines; and that, notwithstanding the gene<g ref="char:EOLhyphen"/>rality of People would not hear of
+<pb n="42" facs="tcp:104415:29"/> a Treaty: Some of the better sort of Inhabitants seemed desirous to save themselves and their Town from utter ruine, by a Capitulation.</p>
+               <p>
+                  <hi>October</hi> the 3. the <hi>Lunenburghs</hi> attack'd the <hi>Counterscarp,</hi> and in Four hours time made themselves Masters of it, and are preparing to descend into the Ditch to under<g ref="char:EOLhyphen"/>mine the Wall.</p>
+               <p>The ill Weather comes on so fast, that it very much incommodes his <hi>Electoral Highness,</hi> and it is thought if the Army would but once begin their march in <hi>Livonia,</hi> and fall into <hi>Prussia,</hi> he would notwith<g ref="char:EOLhyphen"/>standing those many advantages gained by him during the time of the Siege, be forced to raise it, with<g ref="char:EOLhyphen"/>out effecting so great and desired a work as the taking of <hi>Stetin.</hi> Those Burghers of <hi>Stetin</hi> which were most desirous of Peace, (we are infor<g ref="char:EOLhyphen"/>med by Deserters) dare not shew it, for fear of being torn in pieces
+<pb n="43" facs="tcp:104415:29"/> by the multitude; which makes the Elector doubt much Blood will be spilt before the Town is taken.</p>
+               <p>The fourth and fifth was spent in springing of Mines on both sides; the Besieged succeeding better on the <hi>Brandenburgh's</hi> Quarter, then on the <hi>Lunenburghs:</hi> For they a second time forc'd the Men posted and fortified on the <hi>Counterscarp,</hi> to retire with considerable loss, and made themselves Masters of the place, and maintained the same for two hours: at the end of which, the Besiegers sprung a Mine, which succeeded but in part; yet the breaking of the Ground kill'd about eighteen of those that were posted on the regain'd <hi>Counterscarp;</hi> which being followed with an attack, the <hi>Brandenburghs</hi> forced the Besieged to retire, and again posted them<g ref="char:EOLhyphen"/>selves on the <hi>Counterscarp.</hi> On the <hi>Lunenburgs</hi> side they prevailed not at all, although they made several
+<pb n="44" facs="tcp:104415:30"/> Salleys to hinder them from work<g ref="char:EOLhyphen"/>ing: For they have so well forti<g ref="char:EOLhyphen"/>fied themselves on the <hi>Counterscarp,</hi> that all the Vigor and Art imagi<g ref="char:EOLhyphen"/>nable cannot possibly remove them. The sixth, seventh, and eighth, the <hi>Lunenburghs</hi> busied themselves in making a descent into the Ditch, in order to the undermining the Wall. The <hi>Stetiners</hi> despairing of Relief, and yet unwilling to capi<g ref="char:EOLhyphen"/>tulate, rather chose once more to supplicate <hi>Count Coningsmark,</hi> and to desire Succours from him, then to lose their Priviledge and Honour; to which they all assented, and dis<g ref="char:EOLhyphen"/>patch'd a messenger to the <hi>Count</hi> with Letters to that effect, the words were these.</p>
+            </div>
+            <div type="letter">
+               <pb n="45" facs="tcp:104415:30"/>
+               <head>THE Burghers of STETIN TO Count <hi>Coningsmark.</hi>
+               </head>
+               <p>IT is not unknown to you the Miseries we have suffered, and the daily Dangers we un<g ref="char:EOLhyphen"/>dergo, to purchase the Name of Loyal Subjects; to accomplish which, forgetting our Losses, both Burghers and Souldiers unanimously move together, both submitting to the Duties and Hardships of the Siege. We have gain'd many considerable Advantages in our frequent
+<pb n="46" facs="tcp:104415:31"/> Salleys, though with the loss of several brave Officers both of Horse and Foot: All which is forgotten, if you will but let us know the Succour we must expect from the Army in <hi>Livo<g ref="char:EOLhyphen"/>nia:</hi> Giving you assurance, That whatever Advice we re<g ref="char:EOLhyphen"/>ceive from you concerning it, we shall not change the Resolu<g ref="char:EOLhyphen"/>tion we have taken, to defend it to the last Extremity; and that having lost our Churches, Hou<g ref="char:EOLhyphen"/>ses, and Goods, which are ru<g ref="char:EOLhyphen"/>in'd and destroy'd by the Ene<g ref="char:EOLhyphen"/>mies Cannon and Bombs, we shall not be sparing of our Per<g ref="char:EOLhyphen"/>sons in the Defence of the Place. And if we might be assured of Relief, we would (the more to
+<pb n="47" facs="tcp:104415:31"/> harrass the Enemy, and ruine their Army) make Vigorous Salleys, which we have of late forborn, to manage the Garrison with. But if not, we must for the same Reason forbear them; and only wait with our Swords in our Hands, to entertain the <hi>ELECTOR's</hi> General Assault, which we very suddenly expect, and that no doubt will termi<g ref="char:EOLhyphen"/>nate the Siege of <hi>Stetin,</hi> though with the loss of all our Lives.</p>
+               <p>The Resolution of his Masters Subjects so pleas'd Count <hi>Conings<g ref="char:EOLhyphen"/>mark,</hi> that he presently dispatch'd the Messenger back again with such Letters as he had received from the King his Master, and from <hi>Livonia:</hi> That from the King was this.</p>
+            </div>
+            <div type="letter">
+               <pb n="48" facs="tcp:104415:32"/>
+               <head>THE King of <hi>SWEDEN</hi> TO Count <hi>Coningsmark:</hi>
+               </head>
+               <p>IT is My Grief to behold the Fidelity of such a Faith<g ref="char:EOLhyphen"/>ful People, and to be so far distant as not to be in a posture to aid them: But though Re<g ref="char:EOLhyphen"/>lief has been long expected, which by reason of the bad wea<g ref="char:EOLhyphen"/>ther, the Forces could not march; yet assure them, That if Fortune so far favours them to remain Ʋnconquer'd, they
+<pb n="49" facs="tcp:104415:32"/> shall not only be suddenly Relie<g ref="char:EOLhyphen"/>ved, but find such a Royal Ma<g ref="char:EOLhyphen"/>ster as shall make ample satisfa<g ref="char:EOLhyphen"/>ction for all the Loss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s they have sustained during the Siege.</p>
+               <trailer>The other Letter was from Count <hi>Bent-Horn</hi> to Count <hi>Co<g ref="char:EOLhyphen"/>ningsmark:</hi> Which take as fol<g ref="char:EOLhyphen"/>loweth.</trailer>
+            </div>
+            <div type="letter">
+               <pb n="50" facs="tcp:104415:33"/>
+               <head>Count <hi>Bent-Horne</hi> TO Count <hi>Coningsmark?</hi>
+               </head>
+               <p>
+                  <hi>WE shall be suddainly in a posture to relieve the</hi> Stetiners, <hi>our Army being compleated; and now the next Frost puts it into motion, whose swiftness will no doubt cause the Elector to raise the Siege, or suffer his own Countrey to make Reparation, for the losses our King has sustained in his faithful Subjects the</hi> Stetiners.</p>
+               <trailer>These Letters gave such great encouragement to the Besieged, that they unanimously made a vow to defend the Town to the last,</trailer>
+            </div>
+            <div n="6" type="letter">
+               <pb n="51" facs="tcp:104415:33"/>
+               <head>The Sixth Letter.</head>
+               <p>EVer since the 18th, we have been busied in laying a Gallery o<g ref="char:EOLhyphen"/>ver the Ditch, which we have not as yet been able to accomplish, the great resistance of the Besieged mightily retarding so great and ad<g ref="char:EOLhyphen"/>vantagious a piece of Work. The 10th Instant early in the Morning, they made a Salley, and with such fury Attack'd the Pioneers and Souldiers, that they drove them from their Works, and tumbled down what they had done. The 12th they Sallied out again, with the same Success as before, which makes us almost doubt the Success of that piece of Work. The 15th in the Morning we sprung a Mine under a Ravelin near the
+<pb n="52" facs="tcp:104415:34"/>
+                  <hi>Holy-Ghost Gate,</hi> which was fol<g ref="char:EOLhyphen"/>lowed with an Attack, and in short time we made our selves Masters of the said Ravelin; in this Action we lost but seven Men, and the Besieged (as the Prisoners who scap'd the Powder and Sword af<g ref="char:EOLhyphen"/>firm) lost near thirty, besides one or two Principal Officers: The bad weather is a great hindrance to the Besiegers, yet they hope in a short time to end this troublesome Siege; The <hi>Lunenburghs</hi> advance daily for all the incommodity of the weather. The said 15th we prepared our selves for a general Assault, more to amuse the Be<g ref="char:EOLhyphen"/>sieged, then any real intention, and to keep the <hi>Stetiners</hi> within their Works, that the Pioneers might finish the Gallery, which was hap<g ref="char:EOLhyphen"/>pily perform'd: and now we doubt not but within two or three days to lodge our selves on the Town Walls. The Gallery being finish'd
+<pb n="53" facs="tcp:104415:34"/> we Attack'd the <hi>Stetiners</hi> in their Works, and after a small dispute; Lodged our selves in the Ditch, and had begun to set the Miner to the Walls of the Town. The 16th and 17th passed without any con<g ref="char:EOLhyphen"/>siderable Action; and on the 18th, we had information by several Deserters, That the Principal Burghers (finding they could not expect to be relieved for all the <hi>Kings</hi> promises, and they must at last fall into the hands of the E<g ref="char:EOLhyphen"/>lector) think it better to make good Conditions for themselves by an early Surrender, then to expose all to the last extremity.</p>
+               <p>
+                  <hi>October</hi> the 19th, the Besieged sprung a Mine on the side of the <hi>Lunenburghs</hi> Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arter, which was followed with an Attack b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all the Souldiers in the Garrison, and four hundred Burghers and Seamen; they fell upon the <hi>Lunenburghs</hi> with such fury, that they beat them
+<pb n="54" facs="tcp:104415:35"/> out of their Works, <hi>Colonel Jeger</hi> who Commanded in the Trenches was kill'd, and <hi>General I udeque</hi> taken Prisoner, and between 30 and 40 Officers, and about 150 common Souldiers were kill'd. In this Salley they also took two pieces of Cannon that were Planted at the foot of the Ditch, each shooting twenty four pound a piece, which they carried into the Town with them. The Besieged lost about one hundred Men, and <hi>Colonel Wangelin</hi> was there taken Prisoner.</p>
+               <p>
+                  <hi>October</hi> the 20th, the Besieged made another Salley with 300 Men, but found so brave a re<g ref="char:EOLhyphen"/>sistance, that they were forced to retire, though without any consi<g ref="char:EOLhyphen"/>derable loss.</p>
+               <p>
+                  <hi>October</hi> the 25th, the Besieged made another Salley with three hundred Men, in which they suc<g ref="char:EOLhyphen"/>ceeded but little, for the <hi>Lunen<g ref="char:EOLhyphen"/>burghs</hi>
+                  <pb n="55" facs="tcp:104415:35"/> had Retrenched themselves so to advantage, that they were forced to retire.</p>
+               <p>
+                  <hi>October</hi> 26, 27, 28, and 29, the <hi>Lunenburghs</hi> busied themselves in Undermining the Wall of the Town, which they effected with<g ref="char:EOLhyphen"/>out any considerable loss, and filled up the Ditch; which being done, His <hi>Highness the Elector of Brandenburgh</hi> gave Order for the Attacking the face of the <hi>Half Bastion;</hi> in which we succeeded so well, that in a short space we took the Post, and fortified our selves there; and have already set the Miner to work, in order to the making a farther progress.</p>
+               <p>
+                  <hi>November</hi> the 1st, His Electoral <hi>Highness</hi> sent Deputies into the Town to offer them favourable Capitulation, representing at the same time, That if they persisted in their obstinacy, they would draw an inevitable ruine on them<g ref="char:EOLhyphen"/>selves,
+<pb n="56" facs="tcp:104415:36"/> since they could not hope for any Succours. The Burghers very civilly received and dis<g ref="char:EOLhyphen"/>missed the Deputies, with this an<g ref="char:EOLhyphen"/>swer, That they most humbly thanked His <hi>Highness</hi> for the fa<g ref="char:EOLhyphen"/>vour offered them; and prayed His Electoral <hi>Highness</hi> not to de<g ref="char:EOLhyphen"/>sire them to surrender the Town, because they were obliged by their Oathes to the contrary; which they ought and would observe as long as they could; that at least they would defend the Town until this present Year was expired; and if in the mean time they should re<g ref="char:EOLhyphen"/>ceive no Succours, they hoped His Electoral <hi>Highness</hi> would not then deny them the Grace and Fa<g ref="char:EOLhyphen"/>vour he now offered.</p>
+               <p>Till <hi>November</hi> the 5th we were preparing a Mine, in Order to the gaining the rest of the <hi>Bastion</hi> we took the 29 of <hi>October,</hi> which was finished on the said 5th day.</p>
+               <pb n="57" facs="tcp:104415:36"/>
+               <p>The sixth about noon His <hi>High<g ref="char:EOLhyphen"/>ness</hi> gave Orders for the springing the said Mine, which was accor<g ref="char:EOLhyphen"/>dingly done, but not with the ex<g ref="char:EOLhyphen"/>pected Success; the Besieged ha<g ref="char:EOLhyphen"/>ving had notice of the intended Attack, had drawn the greatest part of the Garrison to defend their Works; His Electoral <hi>High<g ref="char:EOLhyphen"/>ness</hi> lost in this Action a <hi>Lieutenant-Colonel,</hi> and ten or twelve Men which were kill'd, besides twenty or thirty mortally wounded: the Miners are again at work in the said Bastion, in order to the ma<g ref="char:EOLhyphen"/>king of another, and more vigo<g ref="char:EOLhyphen"/>rous Attack.</p>
+               <p>
+                  <hi>November</hi> the 7th, by Deserters who came out of the Town we are assured that there cannot be a more lamentable Spectacle, then to see the condition the Town is at present in, being buried in Ruines and Desolation; that since the Siege there has been kill'd near
+<pb n="58" facs="tcp:104415:37"/> 1400 <hi>Men, Women and Children,</hi> besides the Souldiers of the Gar<g ref="char:EOLhyphen"/>rison; and yet after all this loss, the Ruines of the City, and the presentation of unavoidable mise<g ref="char:EOLhyphen"/>ry, the Burghers persist in their obstinacy to defend the place to the utmost extremity. The same day His Electoral <hi>Highness</hi> took a review of the Forces he had left, which he found were not enough to carry it on with that vigour, as might be imagined must be used for the taking of the place, he ha<g ref="char:EOLhyphen"/>ving since his sitting down before it, lost beteewn 6 and 7000 Men, be<g ref="char:EOLhyphen"/>sides those that are rendred useless, by reason of the sickness which ra<g ref="char:EOLhyphen"/>ges in the Camp. His <hi>Highness</hi> here<g ref="char:EOLhyphen"/>upon sent to the King of <hi>Denmark</hi> to Assist him with some Men, in order to begin a General Assault, since his <hi>Highness</hi> thought nothing but that could put an end to the Siege; and as he was at present, it
+<pb n="59" facs="tcp:104415:37"/> was too hazardous a piece of work, and might perhaps be the utter ruine of the whole business, and the loss of those many advantages he had already gained.</p>
+               <p>
+                  <hi>November</hi> the 8th, the Mine being prepared under the remain<g ref="char:EOLhyphen"/>ing part of the Bastion, this Morning early His <hi>Electoral High<g ref="char:EOLhyphen"/>ness</hi> gave Order for the springing of it, which was accordingly done, and with the Success we desired: The Mine having done its executi<g ref="char:EOLhyphen"/>on, we made our Attack, and in a short space made our selves Masters of the said Bastion, and Posted our selves there; and we now wait only for the Succours promised, and then we shall be in a condi<g ref="char:EOLhyphen"/>tion to begin the General Assault.</p>
+            </div>
+            <div n="7" type="letter">
+               <pb n="60" facs="tcp:104415:38"/>
+               <head>The Seventh Letter.</head>
+               <p>NOthing of moment happened till <hi>November</hi> the 11th, when about noon the <hi>Lunenburghs</hi> sprung a Mine, in which was 30 <hi>Barrels of Powder:</hi> And <hi>two hun<g ref="char:EOLhyphen"/>dred Men</hi> were commanded to Attack the <hi>Stetiners</hi> as soon as the Mine was sprung, which was ac<g ref="char:EOLhyphen"/>cordingly Executed; but the Be<g ref="char:EOLhyphen"/>sieged had put themselves in so good a posture to receive 'em, that the <hi>Lunenburghs</hi> were Repulsed with considerable loss, <hi>Lieutenant Colonell Westrum,</hi> with several Of<g ref="char:EOLhyphen"/>ficers, and a great many common Souldiers, being kil'd.</p>
+               <p>The <hi>Stetiners</hi> have great hopes to save the Town, for that the cold weather comes on so fast, that
+<pb n="61" facs="tcp:104415:38"/> the Souldiers, notwithstanding they keep great fires in the Trenches, perish daily; that, and the hard<g ref="char:EOLhyphen"/>ness of the ground, being a great discouragement to the Besiegers.</p>
+               <p>
+                  <hi>November</hi> the 13th, two Attacks were made, one by the <hi>Lunen<g ref="char:EOLhyphen"/>burghs,</hi> and another by the <hi>Bran<g ref="char:EOLhyphen"/>denburghs,</hi> in their respective Quarters: The <hi>Lunenburghs</hi> were again Repulsed, with the loss of 30 Men; and the <hi>Brandenburghers</hi> succeeded little better, being for<g ref="char:EOLhyphen"/>ced to Retreat back to their Tren<g ref="char:EOLhyphen"/>ches again, with considerable loss.</p>
+               <p>
+                  <hi>November</hi> the 19th, the Elector caused another Attack to be made upon the Raveling, lying between the <hi>Holy-Ghost Gate</hi> and the <hi>New Gate,</hi> in which he succeeded so ill, that after the loss of 60 men, they were forced to retire, without gain<g ref="char:EOLhyphen"/>ing any advantage at all.</p>
+               <p>
+                  <hi>Novem.</hi> the 20. His Electoral High<g ref="char:EOLhyphen"/>ness caused a Mine to be sprung,
+<pb n="62" facs="tcp:104415:39"/> which buried a great many Men, and made a very large breach, but to no purpose.</p>
+               <p>
+                  <hi>November</hi> the 21th, the Besieged made a Salley with one hundred Men, but were forced to retire a<g ref="char:EOLhyphen"/>gain with little or no loss. We are preparing several great Mines under the Town Walls, and raising a Battery on the half <hi>Bastion</hi> we have taken before the <hi>Holy-Ghost Gate,</hi> which when finished, will ve<g ref="char:EOLhyphen"/>ry much incommode the Besieged in those Retrenchments they have made.</p>
+               <p>This day about noon His E<g ref="char:EOLhyphen"/>lectoral <hi>Highness</hi> received Informa<g ref="char:EOLhyphen"/>tion, That the <hi>Danish</hi> Auxiliary Troops were upon their March; which when arrived, will incou<g ref="char:EOLhyphen"/>rage the Generalls to begin the General Assault.</p>
+               <p>By Deserters which came this day from the Town, His <hi>Highness</hi> was informed that the Garison still
+<pb n="63" facs="tcp:104415:39"/> consists in between five and six hundred Men, and that the Bur<g ref="char:EOLhyphen"/>ghers continue to flatter themselves with an expectation of Relief. They add, that there was <hi>(November</hi> the twentieth) a great Quarrel in the Town between the Souldiers and the Burghers, and that several were kill'd on both sides; the reason was, the Garrison urged a Captulation, or at least a Cessation of Arms, if it might be granted; to which the Burghers and Plebeans would not give an ear, but presently fell into a disorder and confusion, in which several lost their lives.</p>
+               <p>Nothing of moment happened till <hi>November</hi> the twenty sixth, and then early in the morning His <hi>Elctoral</hi> Highness gave Orders for the springing of a Mine, which was prepared under a <hi>Ravelin</hi> which lies between the <hi>Holy Ghost Gate</hi> and the <hi>New Gate,</hi> but it was not executed, the Enemy having aban<g ref="char:EOLhyphen"/>doned
+<pb n="64" facs="tcp:104415:40"/> the said <hi>Ravelin;</hi> were re<g ref="char:EOLhyphen"/>tired within their retrenchments: We thereupon took possession of it, and Posted our selves there, and at present are busied in raising a Battery on the said <hi>Ravelin,</hi> and another on the green <hi>Bulwark,</hi> with which we intend to beat down all the Retrenchments which the Besieged have made.</p>
+               <p>This day the <hi>Danish</hi> Regiments of Major General <hi>Sehenstorfs</hi> is arrived in the Camp from the Isle of <hi>Rugen,</hi> and the rest of the Auxi<g ref="char:EOLhyphen"/>liary Troops which come from <hi>Copenhagen</hi> are daily expected. This day we are again informed by De<g ref="char:EOLhyphen"/>serters, that some of the principal Burghers are inclined to make a Capitulation, if they may obtain Honourable Conditions; yet they dare not propose the thing, the generality remaining so obstinately resolv'd to endure all extremities, rather then surrender the place;
+<pb n="65" facs="tcp:104415:40"/> and they declare before they will do it, they will all perish in the <hi>Oder.</hi>
+               </p>
+               <p>The same Deserter told us a strange and remarkable story which was, That a Principal Burgher and Officer being Posted on the Walls, his Servant came and brought him the news that his Wife and Children were killed in his house by a Fire<g ref="char:EOLhyphen"/>ball; which misfortune, though it nearly touched him, could not oblige him to quit his Post, but bidding his Servant return and take care to have them buried, remained in his station without any signs of trouble, declaring that he would with as little Concernment meet his own death, as he had under<g ref="char:EOLhyphen"/>stood theirs.</p>
+            </div>
+            <div n="8" type="letter">
+               <pb n="66" facs="tcp:104415:41"/>
+               <head>The Eight Letter.</head>
+               <p>THe Besieged in <hi>Stetin</hi> defend themselves to admiration: Nothing is able to lessen their Cou<g ref="char:EOLhyphen"/>rage and Resolution. And accor<g ref="char:EOLhyphen"/>ding to all appearance, the <hi>Elector</hi> may be obliged to raise the Siege: for at present his Highness has not above ten thousand Foot, and the Cavalry especially are in a very bad condition; and that notwithstand<g ref="char:EOLhyphen"/>ing the <hi>Recruit</hi> he received of two thousand <hi>Danes,</hi> yet he is not in a Posture to give them a general As<g ref="char:EOLhyphen"/>sault, though the Besieged daily ex<g ref="char:EOLhyphen"/>pect it.</p>
+               <p>
+                  <hi>Novemb.</hi> 30. The Besieged made a Salley with three hundred men, and surpriz'd a small Man of War,
+<pb n="67" facs="tcp:104415:41"/> or Galley, that lay in the <hi>Oder;</hi> the Captain happened to be kill'd, and the men being twenty four in num<g ref="char:EOLhyphen"/>ber were carried into the Town. The <hi>Elector's</hi> Army is lessen'd by seven thousand men since he sat down before <hi>Stetin.</hi>
+               </p>
+               <p>Since <hi>Novemb.</hi> 30. we had little or no Action till the fourth of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> nor no news from the Town of any moment, but that the Besieged, despairing of any Re<g ref="char:EOLhyphen"/>lief from the Army in <hi>Livonia,</hi> began to Mutiny, the Garrison with the Burghers, and all was in a kind of confusion, till Appeased by the discretion of the Governour, who gave them a Promise to come to an Honourable Capitulation, before they were Reduced to the last ex<g ref="char:EOLhyphen"/>tremity. Mean while the Elector is preparing to raise fresh Batteries, and to press the Siege with all the vigour imaginable; Resolving, ra<g ref="char:EOLhyphen"/>ther then not compleat so great a
+<pb n="68" facs="tcp:104415:42"/> work, to lie before it all the Winter.</p>
+               <p>
+                  <hi>December</hi> the 4th, the Elector's Men gained a Post upon the Town Walls, though with the loss of sixty Men. In the mean time the <hi>Lunenburghs</hi> Attack'd the Bulwark and took it. The Besieged Attack'd the <hi>Brandenburghs</hi> three several times, but without any success; losing in the Actions between se<g ref="char:EOLhyphen"/>venty and eighty Men. These two Posts being taken in by the Besiegers, give the Besieged great jealousies of a General Assault, for which they are preparing them<g ref="char:EOLhyphen"/>selves; having made so many Retrenchments within the Town, and fortified several Houses, filling them up with Earth, that in all likelihood it would yet require time to take the place; they being inabled to defend one part of the Town, whilst the Enemy should be possessed of the other.</p>
+               <pb n="69" facs="tcp:104415:42"/>
+               <p>
+                  <hi>December</hi> the 2d. the Burghers received a new Charter from the <hi>King of Sweden,</hi> in which he grants them great Priviledges, and exem<g ref="char:EOLhyphen"/>ption from all Taxes for many years to come. His <hi>Highness</hi> has given orders for several Regiments Quartered in the Countrey of <hi>Cleves,</hi> to repair forthwith to the Army to reinforce it. Till the 11th we had no Action of any mo<g ref="char:EOLhyphen"/>ment, nor could we advance but very little, through the obstinate defence of the Besieged, who this night sprung three Mines, two of which did no great Execution, but the third, being on the side of the <hi>Lunenburgh's</hi> Quarter, destroy'd between fifty and sixty of them.</p>
+               <p>
+                  <hi>December</hi> the 12th the Elector caused two Mines to be sprung, which was followed by two At<g ref="char:EOLhyphen"/>tacks; in the first we were Repul<g ref="char:EOLhyphen"/>sed with the loss of fifteen Men, in the second we took a Post, and
+<pb n="70" facs="tcp:104415:43"/> maintained it: we are preparing two or three Batteries on that part of the Bulwark we are Masters of, as well as on the <hi>Lunenburgh</hi> side, which when finished, will do great Execution. In the mean time we hear nothing of a General Assault; our Generals looking upon it as too hazardous, considering the despe<g ref="char:EOLhyphen"/>rate condition the Besieged were in; and even the Success would be attended with so much blood, as gives His <hi>Electoral Highness</hi> an A<g ref="char:EOLhyphen"/>version to the thoughts of it. His <hi>Highness</hi> being advertised by a Person who came out of the Town, and had also been at the Siege of <hi>Candia,</hi> That the Burghers and Garrison had not only Engag'd themselves anew (since the receipt of their last Charter) to defend the Town to the utmost; But assured His <hi>Electoral Highness,</hi> that the Works made by the Besieged with<g ref="char:EOLhyphen"/>in the Town, did not come short
+<pb n="71" facs="tcp:104415:43"/> of those he had seen in <hi>Candia.</hi>
+               </p>
+               <p>
+                  <hi>December</hi> the Thirteenth and Fourteenth the Besieged made two vigorous Sallies, In which they succeeded so well, that they re-took part of the Bastion, and ruin'd the Enemies-works, that the Besiegers on that side retreated and lost Ground; but rallying again with new strength and vigor, fell upon the <hi>Stetiners;</hi> betwixt whom began a fierce Skirmish, it might almost be counted the Epitome of a civil War; their Fury and Courages were so great and equal, that it was long in Debate who should have the advantage of the Skirmish, but the <hi>Danes</hi> being so minutely assisted and recruited, obliged the others from their Post, who after the loss of fourty Men retired, and left their so early Conquest to the insulting Conquerours: and though they were repulsed here, yet they gained another advantage, and
+<pb n="72" facs="tcp:104415:44"/> drove the Enemy from the Post and Battery they had made on the Town-wall, where the seven Guns they had planted were removed, and dismounted by the Cannon of the Besieged, and the Souldiers posted there killed and taken Prisoners. This, though it be some encouragement and advantage to the Besieged, I fear will only an<g ref="char:EOLhyphen"/>tidate their time a little, and add more Glory to those raked up in Ashes, and the Ruines of so goodly a City, rather then bring Aid and Assistance to such brave Deservers.</p>
+               <p>
+                  <hi>December</hi> the sixteenth, the Be<g ref="char:EOLhyphen"/>sieged having from a Post they held near the <hi>Holy Ghost Gate,</hi> very much incommoded the <hi>Branden<g ref="char:EOLhyphen"/>burghs,</hi> His Highness caused the same to be attack'd. The Mine for that purpose being prepared, and the necessary Orders given, this afternoon we sprung the Mine, and followed it with a vigorous
+<pb n="73" facs="tcp:104415:44"/> attack, but found it something hard to make our selves Masters of it, the Besieged fighting with so much Courage and Resolution; and al<g ref="char:EOLhyphen"/>though they lost twenty seven men at the springing of the Mine, and the Breach we made was so consi<g ref="char:EOLhyphen"/>derable, yet for above an hour they kept us off, receiving our first shock with undaunted resolution; and indeed made us quit the Ground we had gained: but rallying again, they retired behind their Cannon, which was two pieces of Iron Guns shooting each six pounders, we en<g ref="char:EOLhyphen"/>tred the Breach, and now promised our selves Possession, but were soon forc'd to retire; for the Can<g ref="char:EOLhyphen"/>noneers, whether by Orders, or prompted by their own Despairs, having charged with small Shot, Nails, and Rubbish, gave us so fatal a welcome, that we were forc'd at once to leave our conquest, and sixty Men dead, or mortally woun<g ref="char:EOLhyphen"/>ded
+<pb n="74" facs="tcp:104415:45"/> behind us. But rallying again, we made a third Attack, and in that succeeded so well, we secured the Guns, and fought so long with the <hi>Stetiners,</hi> till the Ensign that Commanded, and all (except twelve that were taken, and four that escaped into the Town) were kill'd upon the place. Those Prisoners we took informed us, that not long before <hi>Colonel Isensee,</hi> an eminent Officer, and well e<g ref="char:EOLhyphen"/>steemed by the Besieged, was kill'd. This Post being taken, we fortified our selves there, and raised a Battery of six pieces of Cannon.</p>
+            </div>
+            <div n="9" type="letter">
+               <pb n="75" facs="tcp:104415:45"/>
+               <head>The Ninth Letter.</head>
+               <p>THe Constancy and Resolution of the Besieged cannot be suf<g ref="char:EOLhyphen"/>ficiently extolled; it would ex<g ref="char:EOLhyphen"/>treamly move, even the most void of tenderness, to hear the Rela<g ref="char:EOLhyphen"/>tion those that come thence make of the Ruines and Desolations there, and the Hardships the Inhabitants have chearfully undergone; who nevertheless for all their daily losses and calamities, do give new proofs of their Constancies and Courages, to that degree, as even to create an Admiration in their Enemies, who advance still, though very slowly; and they reckon the Town cannot hold out above a Month longer. The Elector for his part, is resolved not to raise the
+<pb n="76" facs="tcp:104415:46"/> Siege till he be Master of the place!</p>
+               <p>
+                  <hi>December</hi> the 18th, the Elector sprung two Mines which did great Execution, and made not only a breach in the first Wall, but like<g ref="char:EOLhyphen"/>wise in the stone Wall, so that one might see the Streets of the Town; which was followed with an At<g ref="char:EOLhyphen"/>tack by Two hundred Men, who after a sharp dispute, in which the Commanders were kill'd, and about Eighty common Souldiers kill'd and wounded, were Repulsed. The following night the Besieged fill'd up the Breach in the Stone Wall, and made several Retrenchments within: The next day the <hi>Elector</hi> caused another Attack to be made, in which the Besiegers posted them<g ref="char:EOLhyphen"/>selves. The Elector upon this, sent a <hi>Herauld</hi> to demand the Town, and again offered them a very fair, honourable, and advantagious Ca<g ref="char:EOLhyphen"/>pitulation, with an assurance to confirm all the Priviledges offered
+<pb n="77" facs="tcp:104415:46"/> to them by the King of <hi>Sweden,</hi> and add more to 'em; but they were not accepted. The next day the Besiegers took two <hi>Galliots</hi> that lay in the <hi>Oder,</hi> and in them Forty Men, Six Guns, and several Bar<g ref="char:EOLhyphen"/>rells of Powder; which will be of great use to the Besiegers, and much incommode the Besieged. The next morning early, His Electoral <hi>Highness</hi> caused a great Mine. (in which was Thirty Barrels of Pow<g ref="char:EOLhyphen"/>der) to be sprung, which did not all the Execution desired or expect<g ref="char:EOLhyphen"/>ed, the greatest part of the Earth falling backward; yet it made a small breach in the Town Wall, near the former, over against which the Besieged had made several Re<g ref="char:EOLhyphen"/>trenchments within, and raised a Battery, which wholly hindred our following the Mine with an At<g ref="char:EOLhyphen"/>tack. However we are preparing another Mine to make the said Breach larger, in order to an As<g ref="char:EOLhyphen"/>sault.
+<pb n="78" facs="tcp:104415:47"/> We are told by Deserters that came out of the Town, That of the Garrison there remains not Four hundred Men that can do any service; beside which, the Besieged begin to want Powder, which as well as other Considerations, it's believed will oblige them to a Ca<g ref="char:EOLhyphen"/>pitulation: and the more, because the Burghers begin to mistrust the Souldiers of the Garrison; they having several times declared it was time to think of a Surrender: which the Burghers considering, and desparing of relief, have at length consented to. And the twenti<g ref="char:EOLhyphen"/>eth in the Afternoon, sent a Letter to <hi>Major General Endten,</hi> signed by the Magistrates and Principal of the Burghers, to this effect.</p>
+            </div>
+            <div type="letter">
+               <pb n="79" facs="tcp:104415:47"/>
+               <head>A LETTER FROM The Magistrates and Principal Burghers, TO <hi>Major General Endten.</hi>
+               </head>
+               <p>
+                  <hi>AFter our long expectati<g ref="char:EOLhyphen"/>on for Relief, and the many Hardships and Calamities we (as well as the Souldiers of the Garrison) have endured; We desire you in the behalf of the whole City, to acquaint His</hi> Highness, <hi>That we do now lay hold of the Promise he had</hi>
+                  <pb n="80" facs="tcp:104415:48"/>
+                  <hi>often made us, to obtain an ho<g ref="char:EOLhyphen"/>nourable Capitulation when it should be desired; which now requested, I hope will not be denied to those, who rather then not make an honourable Agree<g ref="char:EOLhyphen"/>ment, would with their Swords in their Hands, and Bodies full of wounds, be buried in the Ruines of the City.</hi>
+               </p>
+               <p>The Major soon acquainted the <hi>Elector</hi> with the intentions of the City, who as soon closed with their Demands, and ordered the <hi>Major</hi> the next Morning to send these Lines to the City.</p>
+            </div>
+            <div type="letter">
+               <pb n="81" facs="tcp:104415:48"/>
+               <head>A LETTER FROM <hi>Major General Endten</hi> TO The Magistrates and Chief Burghers of <hi>STETIN.</hi>
+               </head>
+               <p>
+                  <hi>THough your obstinacy has been enough to harden the heart of the most soft and penetrable Breast, yet the com<g ref="char:EOLhyphen"/>passion he has for the City, and them any lives both of yours &amp; his own (that must be hazarded) in a General Assault, which if once come upon you, as in<g ref="char:EOLhyphen"/>tended
+<pb n="82" facs="tcp:104415:49"/> (unless you quickly send out Hostages, and Intreat his Highness, who is all Good<g ref="char:EOLhyphen"/>ness and Generosity) will not only put all to the Sword, but with Fire and Destruction, lay the remaining Glories of your City waste, and level every House, Chappel, or Church, even with the Earth. This will be the effects of a General Assault, which I would have you to con<g ref="char:EOLhyphen"/>sider, as the advice and love of your Friend,</hi>
+               </p>
+               <trailer>ENDTEN.</trailer>
+            </div>
+            <div type="letter">
+               <pb n="83" facs="tcp:104415:49"/>
+               <p>The Magistrates having receiv'd this Letter, soon concluded on a Peace; and next morning sent out Major General <hi>Plointin,</hi> Collonel <hi>Ishterit,</hi> and a Chief Commissary, as Hostages on their part for a Cessation of Arms, till the Peace or Capitulation was ratified: And the Elector on his part sent out Major General <hi>Leendorf,</hi> Collonel, <hi>Luke,</hi> and another Officer; and it is believed this day will put an end to the Siege. The Hostages being received on both sides, the Elector out of his generosity, pity, and indeed extremity of good Na<g ref="char:EOLhyphen"/>ture, soon came to a Capitulation, and that much for the honour of the <hi>Stetiners;</hi> granting to them, notwithstanding the loss of men, which was computed to seven or eight thousand, and charge of money, (for it was found that it cost his Electoral Highness since this Siege, only in Powder, Cannon,
+<pb n="84" facs="tcp:104415:50"/> great and small Shot, six thousand Crowns every day and night) all the Priviledges promised by the King of <hi>Sweden,</hi> and had likewise added several new ones to them. The same night the Articles were drawn up, and sent to Major Gene<g ref="char:EOLhyphen"/>ral <hi>Wulsten</hi> Governour of <hi>Stetin,</hi> who insisted that the Garrison should be conducted to <hi>Straelsond,</hi> and that Major General <hi>Ludeque</hi> should remain a Prisoner, until such time as Collonel <hi>Wangelin</hi> had like<g ref="char:EOLhyphen"/>wise his liberty; which his Electoral Highness absolutely refusing to a<g ref="char:EOLhyphen"/>gree to, the Treaty was broke off, and the Besieged recalled their Hostages, and sent back those of his Electoral Highness, who there<g ref="char:EOLhyphen"/>upon gave Orders to fire from all the Batteries into the Town, which was accordingly executed; and answered from the Town with all the vigor imaginable, neither the Besiegers nor the Besieged being
+<pb n="85" facs="tcp:104415:50"/> sparing of Pains, Art, Powder, or Shot: This firing lasted without cessation the following night, and part of the next day, which was the twenty sixth of <hi>December,</hi> when the Besieged sent out again to re<g ref="char:EOLhyphen"/>new the Treaty, and the next day the Secretary <hi>Flucks</hi> was sent into the Town, with the same Articles, which were that day signed on both sides, and the Capitulation totally ratified: The same day the <hi>New Gate</hi> was delivered up to his E<g ref="char:EOLhyphen"/>lectoral Highness, and four Bat<g ref="char:EOLhyphen"/>talions posted there. His Highness intends to make a solemn Entry into the place on the sixth day of the next Moneth, for which great preparations are making. His E<g ref="char:EOLhyphen"/>lectoral Highness has made <hi>Velt Marshal Dorfling</hi> Governour Ge<g ref="char:EOLhyphen"/>neral of <hi>Pomeren,</hi> as General <hi>Wran<g ref="char:EOLhyphen"/>gel</hi> was in his life time for the King of <hi>Sweden,</hi> and Collonel <hi>Eorstel</hi> is made Governour of <hi>Stetin.</hi> Now
+<pb n="86" facs="tcp:104415:51"/> we come to view <hi>Stetin</hi> since its Surrender, we find it an object of pity, and can only give a sad de<g ref="char:EOLhyphen"/>scription of what before was so fa<g ref="char:EOLhyphen"/>mous and glorious a Place, all the Churches and a very great number of Houses lying quite in ruines. The Garrison which consisted in above three thousand Men, are reduced to about seven hundred Men; and of those scarce four hundred are able to bear Arms. His Electoral Highness found in the Town a fine Train of Artillery: It seems the Besieged wanted Powder, Salt, and Wood, which obliged them to surrender the place: however they obtained very honourable Condi<g ref="char:EOLhyphen"/>tions.</p>
+            </div>
+            <div n="10" type="letter">
+               <pb n="87" facs="tcp:104415:51"/>
+               <head>
+                  <hi>The Tenth Letter.</hi> ARTICLES OF Capitulation FOR THE Surrender of <hi>Stetin. Decemb.</hi> 26. 1677.</head>
+               <p n="1">I. <hi>THe Garrison, both Horse and Foot, so far as it consists of the Swedish Nation,</hi>
+                  <pb n="88" facs="tcp:104415:52"/>
+                  <hi>and of Persons thereto belong<g ref="char:EOLhyphen"/>ing, shall according to Military Custom, march out with Co<g ref="char:EOLhyphen"/>lours flying, Drums beating, Compleatly Armed, Bag and Baggage, and shall be carried to</hi> Livonia. <hi>The</hi> Germans, <hi>as well Officers as Souldiers, shall pursuant to the</hi> Avocato<g ref="char:EOLhyphen"/>ria, <hi>quit the</hi> Swede'<hi>s Service.</hi>
+               </p>
+               <p n="2">II. <hi>In case they cann't take all their Baggage with them, they may commit the same to the care of some Friend, and fet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h it a<g ref="char:EOLhyphen"/>way when the Water is open.</hi>
+               </p>
+               <p n="3">
+                  <pb n="88" facs="tcp:104415:52"/>III. <hi>The</hi> Schutzen <hi>and</hi> Hey-Ruy<g ref="char:EOLhyphen"/>ters <hi>are pardoned, except those who contrary to Military Pra<g ref="char:EOLhyphen"/>cti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e have committed any Mur<g ref="char:EOLhyphen"/>thers.</hi>
+               </p>
+               <p n="4">IV. <hi>The Sick and Wounded may remain there till they are well, and be accommodated according to their Condition.</hi>
+               </p>
+               <p n="5">V. <hi>The Garrison that marches out shall take with them Provi<g ref="char:EOLhyphen"/>sions for one day, and afterward</hi>
+                  <pb n="90" facs="tcp:104415:53"/>
+                  <hi>shall be provided for by His Electoral Highness.</hi>
+               </p>
+               <p n="6">VI. <hi>The Prisoners shall be set at Liberty.</hi>
+               </p>
+               <p n="7">VII. <hi>The Deserters are pardoned, and must re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urn to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir Regi<g ref="char:EOLhyphen"/>ments.</hi>
+               </p>
+               <p n="8">VIII. <hi>His Electoral Highness grants Lieu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enant General</hi> Wulsten <hi>two Pieces of Cannon, which he may chuse.</hi>
+               </p>
+               <p n="9">
+                  <pb n="91" facs="tcp:104415:53"/>IX. <hi>The Wives, Widows, and Heirs of the Officers may remain there till</hi> Easter, <hi>and then the Water b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing open, may freely de<g ref="char:EOLhyphen"/>par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p n="10">X. <hi>The Ministers or Officers of the King of</hi> Sweden, <hi>as well Ci<g ref="char:EOLhyphen"/>vil as Mili<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ary, shall enjoy the</hi> Amnesty, <hi>and are received in<g ref="char:EOLhyphen"/>to His Electoral Highness's Pro<g ref="char:EOLhyphen"/>tection, and shall keep all their Goods, except such as are De<g ref="char:EOLhyphen"/>mains, provided they take an Oath of Fidelity.</hi>
+               </p>
+               <p n="11">
+                  <pb n="92" facs="tcp:104415:54"/>XI. <hi>Such of the said Ministers as will repair to any other place, may freely do it, and have a years time to sell their Move<g ref="char:EOLhyphen"/>ables and Immoveables.</hi>
+               </p>
+               <p n="12">XII. <hi>Every one may bury his Dead where he pleases.</hi>
+               </p>
+               <p n="13">XIII. <hi>The said Swedish Ministers, may give in their Accounts re<g ref="char:EOLhyphen"/>lating to their respective places.</hi>
+               </p>
+               <p n="14">
+                  <pb n="93" facs="tcp:104415:54"/>XIV. <hi>The said Min<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sters shall not be molested for the service by them done to the Crown of</hi> Swe<g ref="char:EOLhyphen"/>den.</p>
+               <p n="15">XV. <hi>Those that fled into the Town (as well Gentlemen as Peasants) may return to their Lands and Goods, and freely enjoy the same.</hi>
+               </p>
+               <p n="16">XVI. <hi>In the matter of Religion His Electoral Highness shall make no Change, but leave it as it is:</hi>
+               </p>
+               <p n="17">
+                  <pb n="94" facs="tcp:104415:55"/>XVII. <hi>The Cathedral Church of</hi> S. Mary, <hi>and the School, shall keep all their Rights and Pri<g ref="char:EOLhyphen"/>viledges, as likewise all their Goods and Revenues.</hi>
+               </p>
+               <p n="18">XVIII. <hi>In like manner all the other Churches, Communities, Schools, Hospitals, in and without the Ci<g ref="char:EOLhyphen"/>ty, shall enjoy what they have.</hi>
+               </p>
+               <p n="19">XIX. <hi>All the respective Preachers, those that belong to Churches and Schools, are taken by His</hi>
+                  <pb n="95" facs="tcp:104415:55"/>
+                  <hi>Electoral Highness into His pro<g ref="char:EOLhyphen"/>tection, they remaining in their Employments, without being questioned for what is past, pro<g ref="char:EOLhyphen"/>vided they pay all dutiful obedi<g ref="char:EOLhyphen"/>ence and fidelity to His Electo<g ref="char:EOLhyphen"/>ral Highness.</hi>
+               </p>
+               <p n="20">XX. <hi>The Accounts of the Cham<g ref="char:EOLhyphen"/>ber of Accounts and Rents, as likewise of the Storehouse, after Copies taken, shall be delivered up.</hi>
+               </p>
+               <p n="21">XXI. <hi>The Council and Burgerschop of the City shall keep their Go<g ref="char:EOLhyphen"/>vernment and Priviledges, and</hi>
+                  <pb n="96" facs="tcp:104415:56"/>
+                  <hi>shall not be burthened with Plundering, Contributions, or ransoming of their Bells; all that is past being by the</hi> Am<g ref="char:EOLhyphen"/>nesty <hi>wholly forgotten: And every one has Liberty to go whi<g ref="char:EOLhyphen"/>ther he pleases, the Burghers and Inhabitants remaining in the full possession of their goods.</hi>
+               </p>
+               <p n="22">XXII. <hi>The Lieutenant-General shall faithfully deliver up all the Can<g ref="char:EOLhyphen"/>non, Ammunition, Provisions, and whatever belongs to the Militia.</hi>
+               </p>
+               <p n="23">XXIII. <hi>Immediately after the conclu<g ref="char:EOLhyphen"/>ding
+<pb n="97" facs="tcp:104415:56"/> of the Accord, the New Gate, together with the Bul<g ref="char:EOLhyphen"/>wark lying before the same, as likewise the</hi> Lastady, <hi>shall be delivered up to His Electoral Highness.</hi>
+               </p>
+               <p n="24">XXIV. <hi>This Accord shall be invio<g ref="char:EOLhyphen"/>lably Observ'd, and Executed in all its Points.</hi>
+               </p>
+               <pb n="89" facs="tcp:104415:57"/>
+               <p>Besides these Articles, the E<g ref="char:EOLhyphen"/>lector has granted them, as of Grace, that they shall for ten years to come, enjoy a free Liberty of Fishing without paying any thing for the same; provided they re<g ref="char:EOLhyphen"/>pair and rebuild the Churches ruin'd during the Siege, except the great Church, which his High<g ref="char:EOLhyphen"/>ness will rebuild at his own charge. As for the Priviledges which His <hi>Electoral Highness</hi> has confirm'd to them, they are such as they en<g ref="char:EOLhyphen"/>joy'd in the time of the King of <hi>Sweden.</hi>
+               </p>
+               <p>
+                  <hi>Jannary</hi> the sixth, His Electoral Highness intends to make a Solemn entry into <hi>Stetin:</hi> and resolves on the 10th to make a publick entring into <hi>Berlin.</hi> And on the 11th, will be held a General thanksgiving throughout all His Electoral High<g ref="char:EOLhyphen"/>nesses Territories. Now we have a Cessation of Arms; and ratified a Peace with this Potent and Reso<g ref="char:EOLhyphen"/>lute
+<pb n="99" facs="tcp:104415:57"/> People, nothing can be more expected but the Order, Solemnity and Preparations; the Solemnity of the one, and the Order and Preparations of the other; which was perform'd with as much State, Honour and Obedience, as made their courtesie to the Conquerour, and their inveterate hate to their Enemy, shew like two Rival Stars. No eye, not so much as the most descerning, could descry the dif<g ref="char:EOLhyphen"/>ference between the Grandeur of the one, and the admired Resoluti<g ref="char:EOLhyphen"/>on of the other; both being pois'd with such an equal hand, that the Gazers-on were not only struck with admiration, but almost wish'd themselves to be Captived by so brave and so obliging a Nation, who did with their wounds scarce dressed, or blood wiped off from their Visages, display at once the Sword, and innocent Banners of a certain Peace, as ready to serve
+<pb n="100" facs="tcp:104415:58"/> him with the one, as command their own safeties with the other. The Elector having settled the State of the War against <hi>Stetin,</hi> repaired the Wall and Fortificati<g ref="char:EOLhyphen"/>ons which were demolished, and put a strong Garrison into the Town, dispatched Letters to <hi>Ber<g ref="char:EOLhyphen"/>lin,</hi> to direct Prince <hi>Lodowicke,</hi> and Prince <hi>Philip,</hi> to repair to the Camp, and accompany him in the solemn entry he will make into <hi>Stetin,</hi> on the sixth day of the next Month, in order to the re<g ref="char:EOLhyphen"/>ceiving the Homage of the Magi<g ref="char:EOLhyphen"/>strates and Burghers. Which was accordingly done: And the sixth of <hi>January</hi> in the Morning, they begin their solemn Entry into <hi>Stetin.</hi>
+               </p>
+            </div>
+            <div n="11" type="letter">
+               <pb n="101" facs="tcp:104415:58"/>
+               <head>The Eleventh Letter.</head>
+               <head type="sub">
+                  <hi>An Account of the Order and Ceremony of the Electors so<g ref="char:EOLhyphen"/>lemn entry into</hi> Stetin, <hi>with the Preparations the Magi<g ref="char:EOLhyphen"/>strates and Burghers made for his reception.</hi>
+               </head>
+               <p>
+                  <hi>JAnuary</hi> the 6th 1677. in the morning His Electoral High<g ref="char:EOLhyphen"/>ness, accompanied by Prince <hi>Ledo<g ref="char:EOLhyphen"/>wick,</hi> Prince <hi>Philip,</hi> and the Duke of <hi>Lunenburgh,</hi> attended by their respective Gentlemen and Regi<g ref="char:EOLhyphen"/>ments of Guards, both Horse and Foot, in an equipage as splendid as the short warning, and the te<g ref="char:EOLhyphen"/>diousness of the Siege would per<g ref="char:EOLhyphen"/>mit,
+<pb n="102" facs="tcp:104415:59"/> in a Warlike motion moved towards the City; and being ar<g ref="char:EOLhyphen"/>rived at the <hi>New Gate,</hi> His Electoral Highness was presented by two Boys in Morning as followeth; The one with a Silver Key, having these words in golden Letters In<g ref="char:EOLhyphen"/>graven on it, <hi>Accipe, Serva, &amp; Conserva,</hi> (Receive, Keep, and Pre<g ref="char:EOLhyphen"/>serve) The other with a Ducal Hat, with these words, <hi>Quod Deus dat,</hi> (which God gives.) Being entred the Gate, he was met by six Virgins in Mourning, who after Homage done to His <hi>Electoral Highness,</hi> presented him as follows.</p>
+               <p>The First presented His Electoral Highness with a Cypress Wreath, with these words wrought in with threads of Gold, <hi>Victori Cruentatem Vinginitatem,</hi> A Bloody Virginity to the Victor.</p>
+               <p>The Second presented his Elect<g ref="char:EOLhyphen"/>oral Highness with three Garlands in a gilded Scale, with this Motto,
+<pb n="103" facs="tcp:104415:59"/>
+                  <hi>Preces pro Benevolentia,</hi> (Prayers for Benevolence.)</p>
+               <p>In each Garland is to be a little Hill of Myrth, and between the three Garlands a Cross, under which is written the word <hi>Prope,</hi> (Hard by.)</p>
+               <p>The Third is to present to his Highness a Hat of Orange leaves, with this Motto, <hi>Paterna Virtute Auctam Augendam,</hi> Increased by the Fathers Valour, shall yet be greater.</p>
+               <p>The Fourth will present to Prince <hi>Lodowick</hi> an Apple, on which is to be written with gilded Cloves, <hi>Natura Aetatem,</hi> (Nature brings Age.)</p>
+               <p>The Fifth will present to Prince <hi>Phillip</hi> a Griffins Claw with this Motto, <hi>Perge sine mora &amp; habes,</hi> (Pursue without delay, and you shall have)</p>
+               <p>The Sixth is to present to the Duke of <hi>Lunenburgh</hi> a Nose-gay
+<pb n="104" facs="tcp:104415:60"/> of Flowers, with this Motto, <hi>Deo Gratias:</hi> then all with an unanimous voice repeated these Words, <hi>Hap<g ref="char:EOLhyphen"/>piness and long life to the Elector, and to all the Princes and Prin<g ref="char:EOLhyphen"/>cesses of</hi> Stetin. After this he was met by the Magistrates and Chief Burghers of <hi>Stetin,</hi> all in mourning, who conducted him first to the Palace or antient Court of the Dukes of <hi>Stetin,</hi> and there after wishing him happiness and long life as before, they delivered up all the Ornaments, and things of State belonging to the City, and then took an Oath of Fidelity. From thence he was conducted to the great Church, and was there met by the Judges and Ministers, as well Ecclesiastical as Civil, who all there took an Oath of Fidelity; from thence he was conducted to the <hi>Lastadie,</hi> which after the usual Ceremonies past, was delivered up to His Electoral Highness; from
+<pb n="105" facs="tcp:104415:60"/> thence he came back again to the Court or Palace, where alighting from his Horse, twelve young Gentlewomen, the Principal in the Town, went before His Electoral Highness strewing green Herbs, and conducting him to the Banquet<g ref="char:EOLhyphen"/>ting-house, where he was magni<g ref="char:EOLhyphen"/>ficently entertaintd at the Cost and Charge of the Magistrates and Bur<g ref="char:EOLhyphen"/>ghers. It is but in vain to relate the manner, or the joy and accla<g ref="char:EOLhyphen"/>mations, as well of the Electors Guards as of the <hi>Plebeans,</hi> both joyning together in a confused manner of acclamation. Dinner being ended, the usual Ceremonies over, and the due Homage received from the Magistrates and Burghers, His Electoral Highness, according to Military custom, return'd to his Quarters; and from thence, having settled all the affairs of <hi>Stetin</hi> in a peaceable order and due obedience, the tenth of this present <hi>January</hi>
+                  <pb n="106" facs="tcp:104415:61"/> 1677. he returned to <hi>Berlin,</hi> and was received there with all the Solemnity and Magnificence that place is capable of, which was beyond what had been seen there in the memory of any man Living.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104415:61"/>
+         </div>
+      </body>
+   </text>
+</TEI>
